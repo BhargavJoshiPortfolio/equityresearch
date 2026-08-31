@@ -2,25 +2,25 @@ TICKER: GILD
 COMPANY_NAME: Gilead Sciences, Inc.
 SECTOR: Healthcare
 INDUSTRY: Biotechnology / Pharmaceuticals (HIV, Oncology, Liver Disease)
-TAGLINE: The dominant HIV franchise reinvests a cash-rich core into oncology and next-gen prevention, at the cost of near-term profitability.
-BUSINESS_OVERVIEW: Gilead Sciences discovers, develops, and sells medicines primarily for HIV, oncology, and liver disease, with HIV treatments like Biktarvy and the long-acting PrEP drug Yeztugo (lenacapavir) generating the bulk of revenue and cash flow. It also markets oncology drugs such as Trodelvy and has been diversifying via acquisitions (Arcellx in cell therapy, plus Tubulis and Ouro Medicines) and internal pipeline expansion. Revenue comes from selling branded therapeutics to health systems, payers, and specialty pharmacies globally, with the U.S. as the largest market.
+TAGLINE: A dominant HIV franchise funding a push into oncology and next-gen prevention, even as the M&A bill hits GAAP earnings.
+BUSINESS_OVERVIEW: Gilead discovers, develops, and sells medicines mainly for HIV, oncology, and liver disease. HIV treatments like Biktarvy and the long-acting PrEP drug Yeztugo (lenacapavir) generate the bulk of revenue and cash flow. It also markets oncology drugs such as Trodelvy and has been diversifying through acquisitions (Arcellx in cell therapy, plus Tubulis and Ouro Medicines) alongside its internal pipeline. Revenue comes from selling branded therapeutics to health systems, payers, and specialty pharmacies worldwide, with the U.S. as the largest market by far.
 
 BULL_CASE:
-- HIV franchise remains a cash machine: HIV sales grew ~12% YoY in Q2 2026, with Biktarvy dominant and PrEP (Yeztugo + Descovy) quarterly sales topping $1 billion for the first time; full-year Yeztugo sales guidance raised toward ~$1B.
-- Base business posted its strongest Q2 growth in three years (+10% YoY), showing underlying operating momentum beyond one-time items.
-- Oncology contributor Trodelvy grew 26% YoY with new first-line metastatic breast cancer approvals, and Biktarvy's key patents have reportedly been extended toward 2036, pushing out the feared patent cliff.
-- Strong balance sheet/cash generation (TTM free cash flow ~$12.9B) funds an above-average ~2.25% dividend yield plus aggressive pipeline expansion (Arcellx, Tubulis, Ouro Medicines deals) aimed at diversifying beyond HIV.
+- The HIV franchise is still a cash machine. HIV sales grew about 12% YoY in Q2 2026, Biktarvy remains dominant, and combined PrEP sales (Yeztugo plus Descovy) topped $1 billion in a single quarter for the first time. Full-year Yeztugo guidance was raised toward roughly $1B.
+- The base business posted its strongest Q2 growth in three years, up 10% YoY, which points to real operating momentum rather than one-off items.
+- Trodelvy, the oncology contributor, grew 26% YoY and picked up new first-line metastatic breast cancer approvals. Biktarvy's key patents have reportedly been extended toward 2036, which pushes out the patent cliff investors have long worried about.
+- A strong balance sheet and roughly $12.9B of trailing free cash flow fund an above-average dividend yield near 2.25% while still leaving room for aggressive pipeline expansion aimed at diversifying beyond HIV.
 
 BEAR_CASE:
-- Reported a large GAAP net loss in Q2 2026 (~$10.5B) driven by ~$11.2B of acquired in-process R&D charges tied to recent M&A, leaving TTM P/E not meaningful and raising questions about capital allocation discipline/deal premiums paid.
-- Heavy concentration in HIV economics remains a structural risk; increasing competition (e.g., Merck's Idvynso approval) threatens Gilead's most important growth driver, lenacapavir-based regimens.
-- Oncology execution risk flagged after the ASCENT-07 trial miss, casting doubt on returns from premium-priced oncology acquisitions.
-- Eventual Biktarvy patent cliff (even if pushed toward the mid-2030s) and broader biopharma drug-pricing/policy pressure remain longer-horizon overhangs; analyst commentary questions durability of the Yeztugo launch curve.
+- Q2 2026 brought a large GAAP net loss of about $10.5B, driven by roughly $11.2B of acquired in-process R&D charges tied to recent M&A. That makes the trailing P/E meaningless and raises fair questions about the price Gilead paid for those deals.
+- HIV still accounts for most of the economics here, which is a structural risk. Growing competition, including Merck's newly approved Idvynso, threatens the lenacapavir-based regimens that are Gilead's most important growth driver.
+- Oncology execution risk resurfaced after the ASCENT-07 trial miss, which casts doubt on the returns from those premium-priced oncology acquisitions.
+- The Biktarvy patent cliff, even pushed toward the mid-2030s, remains a long-horizon overhang alongside broader drug-pricing and policy pressure. Some analysts are also questioning how durable the Yeztugo launch curve really is.
 
 RECENT_CATALYSTS:
-- Q2 2026 earnings (Aug 4, 2026): Revenue +10% YoY to $7.8B, base business grew 10%, but GAAP net loss of ~$10.5B due to ~$11.2B in acquired IPR&D charges from the Arcellx, Tubulis, and Ouro Medicines deals; full-year HIV growth guidance raised to 9-10% YoY.
-- Yeztugo (lenacapavir PrEP) launch trajectory (through mid/late 2026): Q2 sales of $232M (+40% sequentially, beating consensus), full-year target raised to ~$1B; FDA accepted a once-weekly oral lenacapavir tablet application with a target action date of February 2, 2027.
-- M&A-driven pipeline expansion (mid-2026): Roughly $16B deployed within about 60 days across cell-therapy (Arcellx) and other biotech acquisitions, signaling an aggressive push to diversify revenue beyond HIV, which pressured near-term GAAP earnings.
+- Q2 2026 earnings (Aug 4, 2026): revenue rose 10% YoY to $7.8B and the base business grew 10%, but a GAAP net loss of about $10.5B showed up because of roughly $11.2B in acquired IPR&D charges from the Arcellx, Tubulis, and Ouro Medicines deals. Full-year HIV growth guidance was raised to 9-10% YoY.
+- Yeztugo's launch kept accelerating through mid and late 2026: Q2 sales of $232M were up 40% sequentially and beat consensus, the full-year target was raised to roughly $1B, and the FDA accepted an application for a once-weekly oral lenacapavir tablet with a target action date of February 2, 2027.
+- A wave of M&A reshaped the pipeline in mid-2026, with roughly $16B deployed in about 60 days across the Arcellx cell-therapy deal and other biotech acquisitions. That spending is exactly what pressured near-term GAAP earnings.
 
 KEY_METRICS:
 - Market Cap: ~$180.6 billion (as of Aug 31, 2026)
@@ -31,9 +31,9 @@ KEY_METRICS:
 - Gross Margin: ~79.6%
 - Analyst Consensus: Buy / Moderate Buy, average price target roughly $158 (range of estimates ~$128-$160 across sources; ~29-30 analysts, majority Buy/Strong Buy)
 
-VALUATION_VIEW: On a forward basis GILD trades around 16x forward earnings with a EV/EBITDA near 14x, which looks reasonable-to-modestly-cheap for a large-cap biopharma generating high-70s gross margins and high-single-digit revenue growth, especially versus its own ~2.6 PEG ratio implying growth-adjusted fair value rather than a bargain. The trailing P/E is distorted (not meaningful) by a large one-time acquired-IPR&D accounting charge from 2026 M&A, so headline "unprofitable" screens are misleading versus the healthier underlying operating/free-cash-flow picture (~$12.9B TTM FCF, ~14x P/FCF). The ~2.25% dividend yield and low beta (~0.34) suggest the market is pricing GILD as a defensive, cash-generative franchise rather than a high-growth story, consistent with a "fair value, modestly discounted for HIV-concentration and M&A execution risk" read rather than either clearly cheap or expensive.
+VALUATION_VIEW: On a forward basis GILD trades around 16x earnings with an EV/EBITDA near 14x, which looks reasonable to modestly cheap for a large-cap biopharma putting up high-70s gross margins and high-single-digit revenue growth. Its own PEG ratio of about 2.6 suggests growth-adjusted fair value rather than an outright bargain, though. The trailing P/E isn't meaningful because of the one-time acquired-IPR&D charge from this year's M&A, so a headline "unprofitable" screen would be misleading next to the healthier underlying picture: roughly $12.9B of trailing free cash flow and a P/FCF near 14x. The 2.25% dividend yield and low beta around 0.34 suggest the market is treating Gilead as a defensive, cash-generative franchise rather than a growth story, which fits a read of fair value, modestly discounted for HIV concentration and M&A execution risk, rather than clearly cheap or expensive.
 
-STANCE: Cautiously Bullish
+STANCE: Bullish
 
 SOURCES:
 - https://stockanalysis.com/stocks/gild/statistics/

@@ -5,7 +5,7 @@
   }
 
   function fmtPct(n) {
-    if (n === null || n === undefined) return '—';
+    if (n === null || n === undefined) return '-';
     return (n >= 0 ? '+' : '') + n.toFixed(1) + '%';
   }
 
@@ -56,7 +56,7 @@
     const price = window.PRICE_DATA[stock.priceKey];
     const summary = window.PRICE_SUMMARY ? window.PRICE_SUMMARY[stock.priceKey] : null;
 
-    document.title = stock.ticker + ' · ' + stock.companyName + ' — Equity Research';
+    document.title = stock.ticker + ' · ' + stock.companyName + ' | Equity Research';
 
     document.getElementById('sh-ticker').textContent = stock.ticker.split(' ')[0].replace(/[^A-Z]/g, '');
     document.getElementById('sh-company').textContent = stock.companyName;

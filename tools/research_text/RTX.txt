@@ -2,26 +2,26 @@ TICKER: RTX
 COMPANY_NAME: RTX Corporation (formerly Raytheon Technologies)
 SECTOR: Industrials
 INDUSTRY: Aerospace & Defense
-TAGLINE: A record $289B backlog spanning jet engines, cockpits, and missiles is turning a post-merger fixer-upper into a defense-and-aftermarket compounder.
+TAGLINE: A record $289B backlog across jet engines, cockpits, and missiles is turning a post-merger fixer-upper into a genuine compounder.
 
-BUSINESS_OVERVIEW: RTX is one of the world's largest aerospace and defense companies, formed from the 2020 merger of Raytheon and United Technologies. It operates through three segments: Collins Aerospace (avionics, cabin interiors, power and control systems for commercial and military aircraft), Pratt & Whitney (jet engines, including the geared turbofan/GTF, plus long-cycle maintenance and aftermarket services), and Raytheon (missiles, missile defense, radars, and sensors for the U.S. and allied militaries). Revenue comes from a mix of commercial aerospace OEM/aftermarket sales and government defense contracts, giving it exposure to both the airline recovery cycle and rising global defense budgets.
+BUSINESS_OVERVIEW: RTX is one of the world's largest aerospace and defense companies, formed from the 2020 merger of Raytheon and United Technologies. It runs three segments: Collins Aerospace, which makes avionics, cabin interiors, and power and control systems for commercial and military aircraft; Pratt & Whitney, which builds jet engines including the geared turbofan (GTF) and runs long-cycle maintenance and aftermarket services; and Raytheon, which supplies missiles, missile defense, radars, and sensors to the U.S. and allied militaries. Revenue is a mix of commercial aerospace OEM and aftermarket sales plus government defense contracts, giving RTX exposure to both the airline recovery and rising global defense budgets.
 
 BULL_CASE:
-- Record backlog of $289B (up 22% YoY as of Q2 2026) provides multi-year revenue visibility across commercial aftermarket and defense.
-- Structurally higher margins than defense peers (~20-21% gross margin vs. Lockheed Martin's ~10-13%) thanks to high-margin Pratt & Whitney aftermarket and Collins commercial content.
-- Selected for the U.S. "Golden Dome" missile defense program (~$3.2B awarded, with partner Rocket Lab), extending Raytheon's franchise into next-generation space-based defense spending.
-- Management raised full-year 2026 guidance after a strong Q2 beat (sales, EPS, and free cash flow all guided higher), with organic sales growth of 16% and defense demand for missiles/munitions accelerating globally (NATO rearmament, Middle East replenishment).
+- A record backlog of $289B, up 22% YoY as of Q2 2026, gives the company multi-year revenue visibility across commercial aftermarket and defense work.
+- Margins are structurally higher than defense peers. RTX runs around 20-21% gross margin versus roughly 10-13% at Lockheed Martin, thanks to the high-margin Pratt & Whitney aftermarket business and Collins' commercial content.
+- RTX was selected for the U.S. "Golden Dome" missile defense program, winning about $3.2B alongside partner Rocket Lab, which extends the Raytheon franchise into next-generation space-based defense spending.
+- Management raised full-year 2026 guidance after a strong Q2 beat, lifting sales, EPS, and free cash flow guidance together, with organic sales growth of 16% and missile and munitions demand accelerating globally on NATO rearmament and Middle East replenishment.
 
 BEAR_CASE:
-- Pratt & Whitney's GTF engine "powder metal" remediation remains a persistent drag, requiring costly inspections and forcing delivery/production trade-offs (Airbus publicly cut A320 production goals in Feb 2026 partly due to GTF delays), risking commercial aftermarket revenue and airline relationships.
-- Valuation is rich versus history and peers: TTM P/E near 37x and forward P/E near 29x already price in clean execution on engine remediation and flawless backlog conversion, leaving little room for disappointment.
-- Heavy reliance on U.S. and allied government defense budgets creates exposure to appropriations delays, program cancellations, or a shift in political priorities.
-- Low dividend yield (~1.4%) and modest beta suggest the stock trades more on growth/execution narrative than income or defensive characteristics — a re-rating down is possible if backlog-to-revenue conversion slips.
+- Pratt & Whitney's GTF engine "powder metal" remediation is still a persistent drag, requiring costly inspections and forcing trade-offs between deliveries and production. Airbus publicly cut its A320 production goals in February 2026, partly because of GTF delays, and that puts both commercial aftermarket revenue and airline relationships at risk.
+- Valuation is rich against both history and peers. A trailing P/E near 37x and forward P/E near 29x already assume clean execution on engine remediation and flawless backlog conversion, which leaves little room for disappointment.
+- Heavy reliance on U.S. and allied government defense budgets exposes RTX to appropriations delays, program cancellations, or a shift in political priorities.
+- The dividend yield is low, around 1.4%, and beta is modest, so the stock trades more on its growth and execution story than on income or defensive characteristics. A re-rating lower is possible if backlog-to-revenue conversion slips.
 
 RECENT_CATALYSTS:
-- Q2 2026 earnings (Jul 23, 2026): Revenue of $24.7B (+14.5% YoY) beat estimates; adjusted EPS of $1.89 beat consensus of $1.66; record backlog of $289B; full-year adjusted sales guidance raised to $95B-$96B and EPS to $7.10-$7.25; shares jumped ~5.7% on the print.
-- Golden Dome missile defense award (spring 2026): RTX selected for a ~$3.2B space-based interceptor contract under the U.S. "Golden Dome for America" program, partnering with Rocket Lab, expanding its space/missile-defense franchise.
-- Ongoing GTF engine remediation and Airbus production-rate friction (through 2026): Airbus cut A320 production targets in February 2026 citing GTF delivery constraints, an overhang investors are tracking into H2 2026 as a swing factor for commercial aftermarket revenue.
+- Q2 2026 earnings (July 23, 2026): revenue of $24.7B, up 14.5% YoY, beat estimates, and adjusted EPS of $1.89 beat the $1.66 consensus. The backlog hit a record $289B, full-year adjusted sales guidance was raised to $95-96B and EPS guidance to $7.10-7.25, and shares jumped about 5.7% on the print.
+- The Golden Dome missile defense award in spring 2026 saw RTX selected for a roughly $3.2B space-based interceptor contract under the U.S. "Golden Dome for America" program, partnering with Rocket Lab and expanding its space and missile-defense franchise.
+- GTF engine remediation and Airbus production-rate friction have continued through 2026. Airbus cut its A320 production targets in February 2026 citing GTF delivery constraints, an overhang investors are tracking into the second half of the year as a swing factor for commercial aftermarket revenue.
 
 KEY_METRICS:
 - Market Cap: ~$285-302B (as of Aug 31, 2026)
@@ -30,9 +30,9 @@ KEY_METRICS:
 - Revenue (TTM): ~$93.5B (+11.8% YoY)
 - Revenue Growth (YoY): ~11.8% TTM (16% organic in Q2 2026 alone)
 - Gross Margin: ~20-21%
-- Analyst Consensus: Buy/Strong Buy, average price target ~$234.82 (about 10-11% upside from ~$211-212 share price)
+- Analyst Consensus: Buy to Strong Buy, average price target ~$234.82, about 10-11% above the recent $211-212 share price
 
-VALUATION_VIEW: At roughly 37x trailing and 29x forward earnings, RTX trades at a clear premium to defense peers like Lockheed Martin, reflecting its structurally higher margins, record backlog, and dual exposure to the commercial aerospace recovery and a global defense-spending upcycle. The premium looks earned on execution so far — Q2 2026 beat on both revenue and EPS with raised guidance — but it leaves the stock priced for continued flawless delivery, meaning any renewed flare-up in GTF engine remediation costs, a slowdown in backlog conversion, or a defense-budget disappointment could compress the multiple quickly. Relative to its own growth rate and versus peers with thinner margins but cheaper multiples, RTX sits closer to fully valued than cheap, with upside more dependent on continued execution than on multiple expansion.
+VALUATION_VIEW: At roughly 37x trailing and 29x forward earnings, RTX trades at a clear premium to defense peers like Lockheed Martin, which reflects its structurally higher margins, record backlog, and dual exposure to both the commercial aerospace recovery and a global defense-spending upcycle. That premium looks earned so far. Q2 2026 beat on both revenue and EPS with raised guidance, but it also leaves the stock priced for continued flawless delivery, meaning any renewed flare-up in GTF remediation costs, a slowdown in backlog conversion, or disappointing defense budgets could compress the multiple quickly. Against its own growth rate, and against peers with thinner margins but cheaper multiples, RTX sits closer to fully valued than cheap, with further upside depending more on continued execution than on the multiple expanding further.
 
 STANCE: Cautiously Bullish
 

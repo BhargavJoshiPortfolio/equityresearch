@@ -4,12 +4,12 @@ A static site showcasing independent equity research on seven companies: **Palan
 
 Each stock page includes a business overview, bull case, bear case, recent catalysts, key metrics, a valuation view, an interactive price chart (6M / 1Y / 3Y), and cited sources.
 
-Built as plain HTML/CSS/JS — no build step, no framework — so it deploys anywhere static files are served, including GitHub Pages.
+Built as plain HTML/CSS/JS with no build step and no framework, so it deploys anywhere static files are served, including GitHub Pages.
 
 ## Structure
 
 ```
-index.html              Landing page — grid of all 7 stocks with sparkline + one-line thesis
+index.html              Landing page: grid of all 7 stocks with sparkline + one-line thesis
 stock.html               Detail page template, reads ?t=<TICKER> and renders from data
 assets/css/style.css     Design system (dark theme, cards, charts)
 assets/js/chart.js       Dependency-free SVG line chart engine (sparkline + full chart)
@@ -36,7 +36,7 @@ Then open http://localhost:5173.
 ## Updating content
 
 - **Price data**: `node tools/update-prices.js` pulls fresh 3-year daily history and current price/52-week range from Yahoo Finance's public chart API for all 7 tickers, and regenerates the `price-*` files.
-- **Research content**: edit the relevant file in `tools/research_text/` (plain labeled text format — see any existing file for the schema), then run `node tools/build-data.js` to regenerate `assets/data/research-data.js`.
+- **Research content**: edit the relevant file in `tools/research_text/` (plain labeled text format, see any existing file for the schema), then run `node tools/build-data.js` to regenerate `assets/data/research-data.js`.
 - To add a new stock: add a `TICKER.txt` file to `tools/research_text/`, add its Yahoo symbol to the `TICKERS` map in `tools/update-prices.js`, and add the matching entry to `priceKeyMap` in `tools/build-data.js`. Then run both scripts.
 
 ## Deploying to GitHub Pages
@@ -49,4 +49,4 @@ No build step or GitHub Actions workflow is required since this is a plain stati
 
 ## Disclaimer
 
-This project is for portfolio and educational purposes only. Nothing on the site constitutes investment advice or a recommendation to buy or sell any security. Data reflects public sources as of the date noted on each page and will drift out of date — rerun `tools/update-prices.js` to refresh price data, and re-research names periodically for fundamentals.
+This project is for portfolio and educational purposes only. Nothing on the site constitutes investment advice or a recommendation to buy or sell any security. Data reflects public sources as of the date noted on each page and will go stale over time, so rerun `tools/update-prices.js` to refresh price data, and re-research names periodically for fundamentals.

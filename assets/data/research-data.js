@@ -4,25 +4,25 @@ window.RESEARCH_DATA = [
     "ticker": "PLTR",
     "companyName": "Palantir Technologies Inc.",
     "sector": "Technology",
-    "industry": "Software—Infrastructure (Big Data / AI Analytics)",
-    "tagline": "The fastest-growing large-cap software name in the market, priced for a decade of flawless execution.",
-    "businessOverview": "Palantir builds data-integration and decision-making software — Gotham for government/defense/intelligence customers, Foundry for commercial enterprises, Apollo for continuous software deployment, and the AI Platform (AIP) layered across both. Its \"ontology\" approach connects an organization's raw data, business logic, and workflows into a live operational model that both humans and AI agents can act on. Revenue comes from software licensing/subscriptions and implementation services sold via long-term government contracts (historically the core) and, increasingly, commercial enterprise deals accelerated by AIP bootcamps that convert pilots into paid deployments.",
+    "industry": "Software Infrastructure (Big Data / AI Analytics)",
+    "tagline": "The fastest-growing large-cap software stock in the market, priced for a decade of near-flawless execution.",
+    "businessOverview": "Palantir builds data-integration and decision software: Gotham for government and defense customers, Foundry for commercial enterprises, Apollo for continuous deployment, and the AI Platform (AIP) layered across both. Its \"ontology\" approach ties an organization's raw data, business logic, and workflows into one live operational model that humans and AI agents can both act on. Revenue comes mostly from long-term government contracts, historically the core of the business, plus a fast-growing book of commercial deals that AIP bootcamps convert from pilot to paying customer.",
     "bullCase": [
-      "Revenue growth is accelerating, not decelerating — Q2 2026 revenue grew 93% YoY (fastest on record) with U.S. commercial revenue up 149% YoY, prompting the largest full-year guidance raise in company history (FY2026 revenue now guided to ~82% YoY growth).",
-      "AIP has created a genuine land-and-expand engine: record $2.13B of U.S. commercial total contract value booked in Q2 2026, suggesting bookings are outpacing what the company can even bill.",
-      "Best-in-class profitability for a hypergrowth name — ~85% gross margin, ~43% operating margin, ~49% net margin, strong free cash flow ($3.4B TTM), and a pristine balance sheet ($9.4B cash vs. ~$211M debt).",
-      "Deepening moat in government/defense as an AI-era prime contractor, with expanding no-bid/sole-source Pentagon work and new industrial partnerships (e.g., Mercury Systems) extending it into defense manufacturing and reindustrialization themes."
+      "Growth is accelerating rather than fading. Q2 2026 revenue grew 93% YoY, the fastest quarter on record, with U.S. commercial revenue up 149% YoY. That prompted the largest full-year guidance raise in the company's history, with FY2026 revenue now guided to roughly 82% YoY growth.",
+      "AIP has turned into a genuine land-and-expand engine. Palantir booked a record $2.13B of U.S. commercial contract value in Q2 2026, more than the company can even bill yet.",
+      "Profitability rivals almost nothing else in hypergrowth software: about 85% gross margin, 43% operating margin, 49% net margin, $3.4B of trailing free cash flow, and a balance sheet with $9.4B cash against just ~$211M debt.",
+      "The government and defense moat keeps deepening as an AI-era prime contractor, with expanding no-bid Pentagon work and new industrial partnerships (Mercury Systems among them) pushing into defense manufacturing and reindustrialization."
     ],
     "bearCase": [
-      "Valuation is extreme by any conventional measure — TTM P/E near 160x, forward P/E near 98x, and price-to-sales above 70x, pricing in years of near-flawless hypergrowth and margin expansion.",
-      "Heavy reliance on U.S. government contracts (concentrated customer base, political/budget cycle risk, procurement scrutiny of no-bid awards) makes revenue mix less diversified than headline commercial growth suggests.",
-      "Stock-based compensation and share dilution remain a persistent drag on GAAP results and shareholder value even as adjusted metrics look pristine.",
-      "Any deceleration in commercial bookings growth or a miss against sky-high guidance could trigger an outsized multiple contraction, given how much future growth is already embedded in the price; 52-week range ($106–$208) shows how volatile sentiment on the stock can be."
+      "Valuation is stretched by any normal measure: a trailing P/E near 160x, forward P/E near 98x, and a price-to-sales ratio above 70x. That prices in years of near-flawless hypergrowth and margin expansion.",
+      "The business still leans heavily on U.S. government contracts. A concentrated customer base, political and budget-cycle risk, and growing scrutiny of no-bid awards make the revenue mix less diversified than the commercial growth headlines suggest.",
+      "Stock-based compensation and share dilution remain a real drag on GAAP results even while adjusted numbers look pristine.",
+      "Any slowdown in commercial bookings, or a miss against sky-high guidance, could hit the multiple hard given how much future growth is already priced in. The stock's 52-week range of $106 to $208 shows how quickly sentiment can swing here."
     ],
     "catalysts": [
-      "Q2 2026 earnings (Aug 3, 2026): Revenue of $1.94B (+93% YoY) beat consensus; adjusted EPS $0.41 vs. ~$0.34 expected; FY2026 revenue guidance raised to $8.15–$8.16B (~82% YoY growth), the largest full-year raise in company history.",
-      "Mercury Systems partnership (Aug 2026, same week as earnings): New agreement to use Palantir's ontology/software for defense-manufacturing digital twins and material planning, extending Palantir into the industrial/reindustrialization supply chain.",
-      "Pentagon funding expansion (Aug 11, 2026): DoD memo directing up to an additional $244M in funding for Palantir services through March 2027, part of over $3B in contract obligations since 2024, roughly half via no-bid/sole-source awards."
+      "Q2 2026 earnings (Aug 3, 2026): revenue of $1.94B, up 93% YoY, beat consensus. Adjusted EPS of $0.41 topped the roughly $0.34 expected, and FY2026 revenue guidance was raised to $8.15-8.16B, about 82% YoY growth and the largest full-year raise in company history.",
+      "Mercury Systems partnership (Aug 2026, the same week as earnings): a new agreement to use Palantir's ontology software for defense-manufacturing digital twins and materials planning, pushing Palantir further into the industrial supply chain.",
+      "Pentagon funding expansion (Aug 11, 2026): a DoD memo directing up to $244M in additional funding for Palantir services through March 2027, part of more than $3B in contract obligations since 2024, roughly half awarded without competitive bidding."
     ],
     "metrics": [
       {
@@ -51,11 +51,11 @@ window.RESEARCH_DATA = [
       },
       {
         "label": "Analyst Consensus",
-        "value": "Buy (consensus of ~27-32 analysts), average price target ~$192 (range roughly $80–$255)"
+        "value": "Buy (consensus of ~27-32 analysts), average price target ~$192 (range roughly $80-$255)"
       }
     ],
-    "valuationView": "By traditional multiples, Palantir looks priced at the extreme high end of the software universe — a triple-digit trailing P/E, a forward P/E near 100x, and a price-to-sales multiple above 70x are figures normally reserved for much smaller, earlier-stage companies, not a $450B business. The bull argument rests on genuinely rare fundamentals to match: 90%+ revenue growth, ~85% gross margins, and expanding operating leverage that few large-cap software peers can show simultaneously, which is why the PEG ratio (~1.3–1.8x) reads less stretched than the headline P/E. Even so, the valuation leaves very little room for error — sustained deceleration in commercial bookings, government budget friction, or margin compression would likely compress the multiple sharply, since so much of the current price already assumes years of continued hypergrowth. Relative to peers (enterprise AI/data software), Palantir trades at a substantial premium that is only justifiable if its growth rate remains a clear outlier for several more years.",
-    "stance": "Cautiously Bullish",
+    "valuationView": "On traditional multiples, Palantir sits at the extreme high end of the software universe. A triple-digit trailing P/E, a forward P/E near 100x, and a price-to-sales multiple above 70x are numbers you'd normally expect from a much smaller, earlier-stage company, not a $450 billion one. The bull case rests on fundamentals rare enough to partly justify it: revenue growth above 90%, gross margins near 85%, and operating leverage that few large-cap software peers can match at the same time, which is why the PEG ratio of roughly 1.3 to 1.8x looks less extreme than the headline P/E. Even so, there's very little room for error. A sustained slowdown in commercial bookings, tighter government budgets, or margin compression would likely hit the multiple hard, since so much of today's price already assumes years of continued hypergrowth. Against other enterprise AI and data software names, Palantir trades at a large premium that only makes sense if its growth rate stays a clear outlier for several more years.",
+    "stance": "Neutral",
     "sources": [
       "https://finance.yahoo.com/markets/stocks/articles/palantir-reports-q2-2026-u-200500706.html",
       "https://www.sec.gov/Archives/edgar/data/1321655/000132165526000039/a2026q2ex991pressrelease.htm",
@@ -73,24 +73,24 @@ window.RESEARCH_DATA = [
     "companyName": "Gilead Sciences, Inc.",
     "sector": "Healthcare",
     "industry": "Biotechnology / Pharmaceuticals (HIV, Oncology, Liver Disease)",
-    "tagline": "The dominant HIV franchise reinvests a cash-rich core into oncology and next-gen prevention, at the cost of near-term profitability.",
-    "businessOverview": "Gilead Sciences discovers, develops, and sells medicines primarily for HIV, oncology, and liver disease, with HIV treatments like Biktarvy and the long-acting PrEP drug Yeztugo (lenacapavir) generating the bulk of revenue and cash flow. It also markets oncology drugs such as Trodelvy and has been diversifying via acquisitions (Arcellx in cell therapy, plus Tubulis and Ouro Medicines) and internal pipeline expansion. Revenue comes from selling branded therapeutics to health systems, payers, and specialty pharmacies globally, with the U.S. as the largest market.",
+    "tagline": "A dominant HIV franchise funding a push into oncology and next-gen prevention, even as the M&A bill hits GAAP earnings.",
+    "businessOverview": "Gilead discovers, develops, and sells medicines mainly for HIV, oncology, and liver disease. HIV treatments like Biktarvy and the long-acting PrEP drug Yeztugo (lenacapavir) generate the bulk of revenue and cash flow. It also markets oncology drugs such as Trodelvy and has been diversifying through acquisitions (Arcellx in cell therapy, plus Tubulis and Ouro Medicines) alongside its internal pipeline. Revenue comes from selling branded therapeutics to health systems, payers, and specialty pharmacies worldwide, with the U.S. as the largest market by far.",
     "bullCase": [
-      "HIV franchise remains a cash machine: HIV sales grew ~12% YoY in Q2 2026, with Biktarvy dominant and PrEP (Yeztugo + Descovy) quarterly sales topping $1 billion for the first time; full-year Yeztugo sales guidance raised toward ~$1B.",
-      "Base business posted its strongest Q2 growth in three years (+10% YoY), showing underlying operating momentum beyond one-time items.",
-      "Oncology contributor Trodelvy grew 26% YoY with new first-line metastatic breast cancer approvals, and Biktarvy's key patents have reportedly been extended toward 2036, pushing out the feared patent cliff.",
-      "Strong balance sheet/cash generation (TTM free cash flow ~$12.9B) funds an above-average ~2.25% dividend yield plus aggressive pipeline expansion (Arcellx, Tubulis, Ouro Medicines deals) aimed at diversifying beyond HIV."
+      "The HIV franchise is still a cash machine. HIV sales grew about 12% YoY in Q2 2026, Biktarvy remains dominant, and combined PrEP sales (Yeztugo plus Descovy) topped $1 billion in a single quarter for the first time. Full-year Yeztugo guidance was raised toward roughly $1B.",
+      "The base business posted its strongest Q2 growth in three years, up 10% YoY, which points to real operating momentum rather than one-off items.",
+      "Trodelvy, the oncology contributor, grew 26% YoY and picked up new first-line metastatic breast cancer approvals. Biktarvy's key patents have reportedly been extended toward 2036, which pushes out the patent cliff investors have long worried about.",
+      "A strong balance sheet and roughly $12.9B of trailing free cash flow fund an above-average dividend yield near 2.25% while still leaving room for aggressive pipeline expansion aimed at diversifying beyond HIV."
     ],
     "bearCase": [
-      "Reported a large GAAP net loss in Q2 2026 (~$10.5B) driven by ~$11.2B of acquired in-process R&D charges tied to recent M&A, leaving TTM P/E not meaningful and raising questions about capital allocation discipline/deal premiums paid.",
-      "Heavy concentration in HIV economics remains a structural risk; increasing competition (e.g., Merck's Idvynso approval) threatens Gilead's most important growth driver, lenacapavir-based regimens.",
-      "Oncology execution risk flagged after the ASCENT-07 trial miss, casting doubt on returns from premium-priced oncology acquisitions.",
-      "Eventual Biktarvy patent cliff (even if pushed toward the mid-2030s) and broader biopharma drug-pricing/policy pressure remain longer-horizon overhangs; analyst commentary questions durability of the Yeztugo launch curve."
+      "Q2 2026 brought a large GAAP net loss of about $10.5B, driven by roughly $11.2B of acquired in-process R&D charges tied to recent M&A. That makes the trailing P/E meaningless and raises fair questions about the price Gilead paid for those deals.",
+      "HIV still accounts for most of the economics here, which is a structural risk. Growing competition, including Merck's newly approved Idvynso, threatens the lenacapavir-based regimens that are Gilead's most important growth driver.",
+      "Oncology execution risk resurfaced after the ASCENT-07 trial miss, which casts doubt on the returns from those premium-priced oncology acquisitions.",
+      "The Biktarvy patent cliff, even pushed toward the mid-2030s, remains a long-horizon overhang alongside broader drug-pricing and policy pressure. Some analysts are also questioning how durable the Yeztugo launch curve really is."
     ],
     "catalysts": [
-      "Q2 2026 earnings (Aug 4, 2026): Revenue +10% YoY to $7.8B, base business grew 10%, but GAAP net loss of ~$10.5B due to ~$11.2B in acquired IPR&D charges from the Arcellx, Tubulis, and Ouro Medicines deals; full-year HIV growth guidance raised to 9-10% YoY.",
-      "Yeztugo (lenacapavir PrEP) launch trajectory (through mid/late 2026): Q2 sales of $232M (+40% sequentially, beating consensus), full-year target raised to ~$1B; FDA accepted a once-weekly oral lenacapavir tablet application with a target action date of February 2, 2027.",
-      "M&A-driven pipeline expansion (mid-2026): Roughly $16B deployed within about 60 days across cell-therapy (Arcellx) and other biotech acquisitions, signaling an aggressive push to diversify revenue beyond HIV, which pressured near-term GAAP earnings."
+      "Q2 2026 earnings (Aug 4, 2026): revenue rose 10% YoY to $7.8B and the base business grew 10%, but a GAAP net loss of about $10.5B showed up because of roughly $11.2B in acquired IPR&D charges from the Arcellx, Tubulis, and Ouro Medicines deals. Full-year HIV growth guidance was raised to 9-10% YoY.",
+      "Yeztugo's launch kept accelerating through mid and late 2026: Q2 sales of $232M were up 40% sequentially and beat consensus, the full-year target was raised to roughly $1B, and the FDA accepted an application for a once-weekly oral lenacapavir tablet with a target action date of February 2, 2027.",
+      "A wave of M&A reshaped the pipeline in mid-2026, with roughly $16B deployed in about 60 days across the Arcellx cell-therapy deal and other biotech acquisitions. That spending is exactly what pressured near-term GAAP earnings."
     ],
     "metrics": [
       {
@@ -122,8 +122,8 @@ window.RESEARCH_DATA = [
         "value": "Buy / Moderate Buy, average price target roughly $158 (range of estimates ~$128-$160 across sources; ~29-30 analysts, majority Buy/Strong Buy)"
       }
     ],
-    "valuationView": "On a forward basis GILD trades around 16x forward earnings with a EV/EBITDA near 14x, which looks reasonable-to-modestly-cheap for a large-cap biopharma generating high-70s gross margins and high-single-digit revenue growth, especially versus its own ~2.6 PEG ratio implying growth-adjusted fair value rather than a bargain. The trailing P/E is distorted (not meaningful) by a large one-time acquired-IPR&D accounting charge from 2026 M&A, so headline \"unprofitable\" screens are misleading versus the healthier underlying operating/free-cash-flow picture (~$12.9B TTM FCF, ~14x P/FCF). The ~2.25% dividend yield and low beta (~0.34) suggest the market is pricing GILD as a defensive, cash-generative franchise rather than a high-growth story, consistent with a \"fair value, modestly discounted for HIV-concentration and M&A execution risk\" read rather than either clearly cheap or expensive.",
-    "stance": "Cautiously Bullish",
+    "valuationView": "On a forward basis GILD trades around 16x earnings with an EV/EBITDA near 14x, which looks reasonable to modestly cheap for a large-cap biopharma putting up high-70s gross margins and high-single-digit revenue growth. Its own PEG ratio of about 2.6 suggests growth-adjusted fair value rather than an outright bargain, though. The trailing P/E isn't meaningful because of the one-time acquired-IPR&D charge from this year's M&A, so a headline \"unprofitable\" screen would be misleading next to the healthier underlying picture: roughly $12.9B of trailing free cash flow and a P/FCF near 14x. The 2.25% dividend yield and low beta around 0.34 suggest the market is treating Gilead as a defensive, cash-generative franchise rather than a growth story, which fits a read of fair value, modestly discounted for HIV concentration and M&A execution risk, rather than clearly cheap or expensive.",
+    "stance": "Bullish",
     "sources": [
       "https://stockanalysis.com/stocks/gild/statistics/",
       "https://stockanalysis.com/stocks/gild/",
@@ -139,26 +139,26 @@ window.RESEARCH_DATA = [
     "ticker": "HIMX",
     "companyName": "Himax Technologies, Inc.",
     "sector": "Technology",
-    "industry": "Semiconductors (Fabless — Display Imaging & AI Sensing)",
-    "tagline": "A legacy display-driver chipmaker riding automotive strength while betting its future on AI eyewear and always-on edge AI.",
-    "businessOverview": "Himax is a Taiwan-based fabless semiconductor company that designs display driver ICs (DDICs), touch-and-display driver integration (TDDI) chips, timing controllers, and CMOS image sensors used in TVs, monitors, laptops, mobile devices, and automotive cockpits. It is the global market-share leader in automotive display ICs, and also supplies ultra-low-power \"WiseEye\" AI sensing chips for AIoT devices and LCoS microdisplays for AR/smart-glasses waveguides. Revenue comes from selling chips to panel makers and device OEMs (largely concentrated in China/Asia), with automotive now the largest and most stable segment.",
+    "industry": "Semiconductors, Fabless (Display Imaging & AI Sensing)",
+    "tagline": "A legacy display-driver chipmaker leaning on automotive strength while it bets its future on AI glasses and edge AI.",
+    "businessOverview": "Himax is a Taiwan-based fabless semiconductor company that designs display driver ICs, touch-and-display driver integration (TDDI) chips, timing controllers, and CMOS image sensors used in TVs, monitors, laptops, phones, and automotive cockpits. It's the global share leader in automotive display ICs, and it also supplies ultra-low-power \"WiseEye\" AI sensing chips for AIoT devices and LCoS microdisplays for AR and smart-glasses waveguides. Revenue comes from selling chips to panel makers and device OEMs, mostly concentrated in China and the rest of Asia, with automotive now the largest and most stable segment.",
     "bullCase": [
-      "Automotive IC franchise (driver ICs, TDDI, local-dimming Tcon) is the #1 global share leader and keeps growing double digits, providing a stickier, less-cyclical revenue base than legacy consumer display chips.",
-      "Q2 2026 results beat guidance across the board (revenue +14.2% sequentially, gross margin 33.1%, EPS well above estimates) and Q3 guidance was raised, suggesting a cyclical inflection after a weak 2025.",
-      "First-mover position in LCoS microdisplays for AR/smart glasses, with named partners (AUO, Vuzix) and no merchant-scale competitor, positions Himax as a key supplier if Meta Ray-Ban-style AI glasses with displays scale as expected in 2026-2027.",
-      "WiseEye ultra-low-power AI sensing chips are being designed into AI PCs, smart locks, and AIoT devices, giving Himax a small but growing foothold in the broader edge-AI theme."
+      "The automotive IC franchise, covering driver ICs, TDDI, and local-dimming Tcon, is the number one global share leader and keeps growing at a double-digit clip, giving Himax a stickier and less cyclical revenue base than its legacy consumer display chips.",
+      "Q2 2026 results beat guidance across the board: revenue up 14.2% sequentially, gross margin at 33.1%, and EPS well ahead of estimates. Q3 guidance was raised too, which hints at a cyclical turn after a weak 2025.",
+      "Himax has a first-mover position in LCoS microdisplays for AR and smart glasses, with named partners like AUO and Vuzix and no real merchant-scale competitor. That makes it a key supplier if Meta Ray-Ban-style AI glasses with displays scale up as expected over 2026 and 2027.",
+      "The WiseEye line of ultra-low-power AI sensing chips is getting designed into AI PCs, smart locks, and other AIoT devices, giving Himax a small but growing foothold in the broader edge-AI trend."
     ],
     "bearCase": [
-      "Structural erosion in the core legacy business: gross margin has collapsed from ~48% (2021) to ~31% (TTM) as LCD panel demand shifts to OLED/MicroLED and Chinese/Taiwanese rivals (Novatek, Sitronix, Chipone, Fitipower, and others) undercut pricing.",
-      "TTM revenue is still down (~-7% YoY) despite the recent quarterly beat, so it's unclear whether Q2 2026 marks a durable turnaround or a temporary automotive-led bounce.",
-      "Heavy revenue concentration in China/Asia panel and device makers exposes Himax to China demand cycles, geopolitical/tariff risk, and customer inventory swings (management itself flagged large-display and monitor IC declines into Q3 2026 from pulled-forward orders).",
-      "AR/glasses and AI-sensing businesses, while promising, are still small relative to total revenue — the stock's valuation increasingly prices in optionality on these emerging segments that has not yet shown up meaningfully in reported financials."
+      "The core legacy business is eroding structurally. Gross margin has fallen from around 48% in 2021 to about 31% on a trailing basis as LCD demand shifts to OLED and MicroLED, while Chinese and Taiwanese rivals like Novatek, Sitronix, Chipone, and Fitipower undercut on price.",
+      "Trailing revenue is still down roughly 7% year over year despite the recent quarterly beat, so it's genuinely unclear whether Q2 2026 marks a durable turnaround or just a temporary automotive-led bounce.",
+      "Revenue is heavily concentrated among China and Asia panel and device makers, which exposes Himax to China's demand cycles, tariff and geopolitical risk, and customer inventory swings. Management has already flagged declines in large-display and monitor ICs heading into Q3 2026 from orders that were pulled forward.",
+      "The AR/glasses and AI-sensing businesses are promising but still small next to total revenue. The stock's valuation is increasingly pricing in optionality on these emerging segments that hasn't shown up in the actual financials yet."
     ],
     "catalysts": [
-      "Q2 2026 earnings (Aug 6, 2026): Revenue $227.4M (above guidance, +14.2% QoQ, +5.9% YoY), gross margin 33.1%, diluted EPS $0.114 vs. $0.085 est., driven by automotive strength; Q3 2026 guidance raised (revenue +7% to +11% QoQ, GM ~34%).",
-      "Baird price target raise (Aug 6, 2026): Raised to $43 from $38, maintaining Outperform, on automotive/emerging-tech momentum.",
-      "Display Week / CES / Embedded World 2026 product showcases (Jan-May 2026): New high-contrast LCoS microdisplay for AR glasses (with AUO, Vuzix reference designs) and WiseEye AIoT solutions, reinforcing the AI-glasses and edge-AI narrative.",
-      "Annual General Meeting held Aug 12, 2026 in Taiwan."
+      "Q2 2026 earnings (Aug 6, 2026): revenue of $227.4M came in above guidance, up 14.2% QoQ and 5.9% YoY, with gross margin at 33.1% and diluted EPS of $0.114 versus the $0.085 expected, driven by automotive strength. Q3 2026 guidance was raised to 7-11% QoQ revenue growth with gross margin near 34%.",
+      "Baird raised its price target to $43 from $38 on Aug 6, 2026, keeping an Outperform rating on automotive and emerging-tech momentum.",
+      "Product showcases across Display Week, CES, and Embedded World in early 2026 featured a new high-contrast LCoS microdisplay for AR glasses, with AUO and Vuzix reference designs, plus new WiseEye AIoT solutions, reinforcing the AI-glasses and edge-AI story.",
+      "Himax held its annual general meeting in Taiwan on Aug 12, 2026."
     ],
     "metrics": [
       {
@@ -179,7 +179,7 @@ window.RESEARCH_DATA = [
       },
       {
         "label": "Revenue Growth (YoY)",
-        "value": "TTM ~-6.9%, but most recent quarter (Q2 2026) +5.9% YoY — inflecting"
+        "value": "TTM roughly -6.9%, but the most recent quarter (Q2 2026) came in at +5.9% YoY, an early sign of inflection"
       },
       {
         "label": "Gross Margin",
@@ -187,10 +187,10 @@ window.RESEARCH_DATA = [
       },
       {
         "label": "Analyst Consensus",
-        "value": "Buy (thin coverage, ~3 analysts); average PT ~$30 (range $17-$43), implying large upside from current price — treat with caution given low analyst count"
+        "value": "Buy, though coverage is thin at only about 3 analysts. Average price target ~$30 (range $17-$43), which implies large upside from the current price but should be read cautiously given how few analysts are behind it"
       }
     ],
-    "valuationView": "HIMX looks expensive on trailing earnings (~67x TTM P/E) but much cheaper on forward estimates (~16x), reflecting the market's bet that the Q2 2026 automotive-led beat marks a genuine earnings inflection rather than a one-off. The steep multiple compression story — gross margins nearly halved since 2021 as legacy LCD driver-IC pricing erodes — is a real structural headwind that isn't fully offset yet by automotive and AI-glasses growth, which remain small relative to total revenue. Analyst coverage is thin (roughly three names) with a very wide price-target dispersion ($17-$43), so the \"Buy, 121% upside\" consensus should be read as low-confidence rather than a reliable signal. On balance, the stock looks like it's pricing in successful execution on automotive share gains plus a real AR/AI-glasses ramp; if either falters, the trailing multiple offers little margin of safety, but if both hit, the forward multiple looks reasonable to cheap for a company with genuine differentiated IP (LCoS, WiseEye).",
+    "valuationView": "HIMX looks expensive on trailing earnings, at roughly 67x TTM P/E, but much cheaper on forward estimates at around 16x. That gap reflects the market betting that the Q2 2026 automotive-led beat marks a real earnings inflection rather than a one-off quarter. The steep multiple compression in the legacy business is a genuine structural headwind: gross margins have nearly halved since 2021 as LCD driver-IC pricing erodes, and automotive and AI-glasses growth haven't yet fully offset it since they remain small relative to total revenue. Analyst coverage is thin, just three names, with a wide price-target spread from $17 to $43, so the \"Buy, roughly 120% upside\" consensus should be treated as a low-confidence signal rather than a strong one. The stock is effectively pricing in successful execution on automotive share gains plus a real AR and AI-glasses ramp. If either falters, the trailing multiple offers little cushion; if both come through, the forward multiple looks reasonable to cheap for a company with genuinely differentiated IP in LCoS and WiseEye.",
     "stance": "Cautiously Bullish",
     "sources": [
       "https://stockanalysis.com/stocks/himx/",
@@ -208,28 +208,28 @@ window.RESEARCH_DATA = [
     "ticker": "CRWD",
     "companyName": "CrowdStrike Holdings, Inc.",
     "sector": "Technology",
-    "industry": "Cybersecurity (Software—Infrastructure / Security Software)",
-    "tagline": "The AI-era security leader growing 25%+ at scale, but priced at a triple-digit multiple for flawless execution.",
-    "businessOverview": "CrowdStrike sells Falcon, a cloud-native, AI-powered cybersecurity platform built on a single lightweight agent that unifies endpoint protection, identity security, cloud security, threat intelligence, and SIEM/next-gen SOC tools across roughly 30+ modules. Revenue is almost entirely subscription-based, sold via annual/multi-year contracts and increasingly bundled through the \"Falcon Flex\" consumption model, which drives cross-sell of additional modules into the existing customer base. Growth is measured primarily through Annual Recurring Revenue (ARR), which reached $5.84 billion as of July 2026.",
+    "industry": "Cybersecurity (Security Software / Infrastructure)",
+    "tagline": "Growing 25%+ at massive scale, but priced at a triple-digit multiple that assumes flawless execution.",
+    "businessOverview": "CrowdStrike sells Falcon, a cloud-native, AI-powered cybersecurity platform built on a single lightweight agent that covers endpoint protection, identity security, cloud security, threat intelligence, and next-gen SOC tools across more than 30 modules. Revenue is almost entirely subscription-based, sold on annual or multi-year contracts and increasingly bundled through the \"Falcon Flex\" consumption model, which drives cross-sell of additional modules into the existing customer base. Growth is tracked mainly through Annual Recurring Revenue, which reached $5.84 billion as of July 2026.",
     "bullCase": [
-      "Record Q2 FY2027 (reported Aug 26, 2026): revenue up 26% YoY to $1.47B, with net new ARR of $332.8M, a company record, up 51% YoY, driving total ARR to $5.84B (+25% YoY)",
-      "Falcon Flex bundling and platform consolidation are deepening land-and-expand economics, with enterprises collapsing point-solution vendors into a single Falcon contract",
-      "AI is becoming both a demand driver (agentic AI creating new attack surfaces) and a product differentiator (Charlotte AI, AI-agent security), management calling it an inflection \"Mythos moment\" for the category",
-      "Successfully retained its customer base after the 2024 outage rather than losing share, with a federal shareholder lawsuit over the incident dismissed in January 2026",
-      "Raised full-year revenue and EPS guidance after the Q2 beat, prompting target hikes from 11+ analyst firms in a single day"
+      "Q2 FY2027, reported Aug 26, 2026, was a record quarter: revenue rose 26% YoY to $1.47B, and net new ARR hit a company record of $332.8M, up 51% YoY, pushing total ARR to $5.84B, up 25% YoY.",
+      "Falcon Flex bundling and platform consolidation are deepening the land-and-expand model, with enterprises folding point-solution vendors into a single Falcon contract.",
+      "AI is turning into both a demand driver and a product differentiator here. Agentic AI is creating new attack surfaces to defend, while Charlotte AI and CrowdStrike's own AI-agent security tools give it something to sell against that. Management has called this an inflection point for the category.",
+      "The company held onto its customer base after the 2024 outage instead of losing share, and a federal shareholder lawsuit over the incident was dismissed in January 2026.",
+      "Full-year revenue and EPS guidance were raised after the Q2 beat, which triggered price target increases from more than 11 analyst firms in a single day."
     ],
     "bearCase": [
-      "Valuation is extreme by conventional measures: TTM P/E near ~5,000x (GAAP earnings are barely positive) and forward P/E around 150x+, versus mid-40s-to-90x for peers like Palo Alto Networks — the stock is priced for near-perfect execution",
-      "The July 2024 global outage still carries live tail risk: Delta Air Lines' lawsuit (seeking roughly $500M in damages) was allowed to proceed on most claims in 2025, and CrowdStrike issued ~$60M in customer discounts/credits to retain accounts",
-      "Competitive pressure is intensifying from Microsoft, which bundles endpoint/identity security into its ~$37B security business and can undercut on price, plus SentinelOne and Palo Alto Networks pushing their own AI-native platforms",
-      "Sustaining 40%+ net-new-ARR growth into FY28 is a high bar; any visible deceleration could trigger sharp multiple compression given how much future growth is already priced in",
-      "GAAP profitability remains thin relative to market cap, with a meaningful gap between adjusted (non-GAAP) and GAAP results, partly due to stock-based compensation"
+      "Valuation is extreme by any conventional measure. Trailing P/E sits near 5,000x, since GAAP earnings are barely positive, and forward P/E is above 150x, compared with the mid-40s to 90x range for peers like Palo Alto Networks. The stock is priced for near-perfect execution.",
+      "The July 2024 global outage still carries real tail risk. Delta Air Lines' lawsuit, seeking roughly $500M in damages, was allowed to proceed on most claims in 2025, and CrowdStrike has already issued about $60M in customer discounts and credits to retain accounts.",
+      "Competition is intensifying, particularly from Microsoft, which bundles endpoint and identity security into its roughly $37B security business and can undercut on price. SentinelOne and Palo Alto Networks are also pushing their own AI-native platforms.",
+      "Keeping net-new-ARR growth above 40% into FY28 is a high bar, and any visible slowdown could trigger sharp multiple compression given how much future growth is already baked into the price.",
+      "GAAP profitability is still thin relative to the market cap, with a wide gap between adjusted and GAAP results, largely due to stock-based compensation."
     ],
     "catalysts": [
-      "Q2 FY2027 earnings (Aug 26, 2026): revenue/ARR beat, record net-new ARR, raised full-year guidance; stock surged ~20% the next session, its best single day on record",
-      "Jan 2026: federal judge dismissed the shareholder lawsuit alleging CrowdStrike concealed inadequate QA practices ahead of the 2024 outage",
-      "2025: Georgia state judge allowed Delta Air Lines' outage-related lawsuit (~$500M claimed damages) to proceed on most counts, keeping outage-related legal risk alive",
-      "Early 2026: company crossed the $5 billion ARR milestone, a symbolic scale marker cited widely in coverage"
+      "Q2 FY2027 earnings (Aug 26, 2026): revenue and ARR both beat expectations, net-new ARR hit a record, and full-year guidance was raised. The stock jumped about 20% the next session, its best single day on record.",
+      "January 2026: a federal judge dismissed the shareholder lawsuit alleging CrowdStrike concealed inadequate QA practices ahead of the 2024 outage.",
+      "2025: a Georgia state judge allowed Delta Air Lines' outage-related lawsuit, seeking roughly $500M in damages, to proceed on most counts, keeping that legal risk alive.",
+      "Early 2026: the company crossed the $5 billion ARR milestone, a scale marker that got wide coverage."
     ],
     "metrics": [
       {
@@ -238,11 +238,11 @@ window.RESEARCH_DATA = [
       },
       {
         "label": "P/E (TTM)",
-        "value": "~4,970x (GAAP net income is near breakeven, so this multiple is not economically meaningful)"
+        "value": "~4,970x (GAAP net income is near breakeven, so this multiple isn't economically meaningful)"
       },
       {
         "label": "Forward P/E",
-        "value": "~155x (consensus-estimate basis; some sources citing non-GAAP-adjusted forward EPS peg it closer to ~90x)"
+        "value": "~155x on a consensus-estimate basis, though some sources using non-GAAP-adjusted forward EPS put it closer to ~90x"
       },
       {
         "label": "Revenue (TTM)",
@@ -250,7 +250,7 @@ window.RESEARCH_DATA = [
       },
       {
         "label": "Revenue Growth (YoY)",
-        "value": "+24.3% TTM (+26% in most recent quarter)"
+        "value": "+24.3% TTM (+26% in the most recent quarter)"
       },
       {
         "label": "Gross Margin",
@@ -258,11 +258,11 @@ window.RESEARCH_DATA = [
       },
       {
         "label": "Analyst Consensus",
-        "value": "Buy/Moderate-to-Strong Buy; average price target ~$229 (post-earnings target raises from RBC, UBS, Morgan Stanley and others range roughly $238–$260)"
+        "value": "Buy to Strong Buy; average price target ~$229 (post-earnings target raises from RBC, UBS, Morgan Stanley, and others range roughly $238-$260)"
       }
     ],
-    "valuationView": "CrowdStrike screens as expensive on every traditional yardstick — a triple-digit forward P/E and a ~41x sales multiple that assume years of continued 25%+ growth and steadily expanding margins. That said, the business is executing at a level that partially justifies a premium: record net-new ARR growth is accelerating rather than decelerating, gross margins are software-grade at ~75%, and the company has weathered a reputationally damaging outage without losing meaningful share. The valuation leaves very little room for error — a growth slowdown, a large new competitive loss to Microsoft, or an adverse outcome in the Delta litigation could compress the multiple sharply. On a growth-adjusted basis relative to cybersecurity peers, CRWD is arguably the highest-quality asset in the group, but it is priced accordingly, making it a \"pay up for the best\" story rather than a value opportunity.",
-    "stance": "Cautiously Bullish",
+    "valuationView": "CrowdStrike looks expensive by every traditional yardstick: a triple-digit forward P/E and a sales multiple near 41x assume years of continued 25%+ growth and steadily expanding margins. That said, the business is executing well enough to partly justify a premium. Net-new ARR growth is accelerating rather than slowing, gross margins are software-grade at around 75%, and the company came through a reputationally damaging outage without losing meaningful share. There's still very little room for error: a growth slowdown, a major competitive loss to Microsoft, or an unfavorable outcome in the Delta litigation could compress the multiple quickly. Relative to other cybersecurity names on a growth-adjusted basis, CrowdStrike is probably the highest-quality asset in the group, but it's priced that way too, which makes this more a \"pay up for the best\" stock than a value opportunity.",
+    "stance": "Neutral",
     "sources": [
       "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-q2-fy2027-earnings-beat-204637537.html",
       "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
@@ -281,29 +281,29 @@ window.RESEARCH_DATA = [
     "companyName": "Infineon Technologies AG",
     "sector": "Technology",
     "industry": "Semiconductors (Power Semiconductors & Automotive Chips)",
-    "tagline": "The world's #1 automotive chipmaker is riding a second wave as AI data centers adopt its power semiconductors.",
-    "businessOverview": "Infineon is a German semiconductor company and the global leader in automotive microcontrollers and power semiconductors, with additional businesses in industrial power, security ICs, and sensors. It makes money selling chips that manage and convert electrical power (silicon and increasingly silicon-carbide/gallium-nitride based) into cars, factories, renewable-energy systems, and consumer devices. A fast-growing new revenue stream is power-delivery chips for AI data centers, where Infineon supplies power semiconductors to major hyperscalers and AI infrastructure customers.",
+    "tagline": "The world's top automotive chipmaker is catching a second wind as AI data centers adopt its power semiconductors.",
+    "businessOverview": "Infineon is a German semiconductor company and the global leader in automotive microcontrollers and power semiconductors, with additional businesses in industrial power, security ICs, and sensors. It makes money selling chips that manage and convert electrical power, increasingly using silicon-carbide and gallium-nitride rather than plain silicon, for cars, factories, renewable-energy systems, and consumer devices. A fast-growing new revenue stream is power-delivery chips for AI data centers, where Infineon supplies hyperscalers and other AI infrastructure customers.",
     "bullCase": [
-      "AI data center power revenue is exploding: over €1.6bn expected in FY2026 (more than double FY2025's ~€700m), with management guiding to over €2.5bn in FY2027, backed by multi-year capacity reservation agreements with 10+ major customers worth a cumulative high-single-digit billion euros.",
-      "Record Q3 FY2026 results (revenue €4.17bn, +13% YoY, +9% QoQ) drove full-year guidance up to ~€16.3bn revenue (+11% YoY) with segment margin trending toward ~20%, showing broad-based recovery beyond just AI.",
-      "Dominant, hard-to-replace position in automotive semiconductors (global automotive MCU share ~36%, overall MCU share ~23%) gives it structural pricing power and scale as vehicles electrify.",
-      "Demonstrated pricing power — pushed through price increases on select AI-related components in April 2026 — while gross margin has been expanding (Q3 adjusted gross margin ~42.8%, up from prior quarters)."
+      "AI data center power revenue is taking off: Infineon expects more than €1.6bn in FY2026, more than double FY2025's roughly €700m, and management is guiding to over €2.5bn in FY2027, backed by multi-year capacity reservation agreements with more than 10 major customers worth a cumulative high-single-digit billion euros.",
+      "Q3 FY2026 was a record quarter, with revenue of €4.17bn up 13% YoY and 9% QoQ, and full-year guidance was raised to roughly €16.3bn in revenue (up 11% YoY) with segment margin trending toward 20%. That points to a recovery that goes well beyond the AI story.",
+      "Infineon holds a dominant, hard-to-replace position in automotive semiconductors, with roughly 36% share of automotive microcontrollers and 23% overall MCU share, which gives it real pricing power and scale as vehicles electrify.",
+      "The company has shown it can push through price increases, doing so on select AI-related components in April 2026, and gross margin has been expanding alongside that, with the Q3 adjusted figure at about 42.8%."
     ],
     "bearCase": [
-      "Valuation looks stretched on trailing numbers: TTM P/E near 62x prices in a lot of the AI/recovery narrative already, leaving limited room for execution missteps even though forward P/E (~23x) is more reasonable.",
-      "China exposure is a real overhang — China is roughly 43% of Infineon's automotive segment revenue, and analysts (e.g., UBS) have forecast China automotive revenue declines of around 7% in both 2026 and 2027 amid local competition and price pressure.",
-      "China's Supreme People's Court upheld a GaN patent injunction against Infineon in favor of Innoscience (June 2026), barring sales/imports of certain infringing GaN products in China and awarding ~10 million yuan in damages — a reminder of intensifying IP and competitive risk from Chinese rivals in compound semiconductors.",
-      "New competitive threats are forming, including a potential merger of Rohm, Toshiba, and Mitsubishi Electric's power semiconductor businesses to challenge Infineon's silicon-carbide leadership, alongside broader cyclicality risk if the automotive/industrial end-markets stall again."
+      "Valuation looks stretched on trailing numbers. A TTM P/E near 62x already prices in a lot of the AI and recovery narrative, leaving limited room for execution missteps, even though the forward P/E of about 23x looks more reasonable.",
+      "China is a real overhang, accounting for roughly 43% of Infineon's automotive segment revenue. UBS and other analysts have forecast China automotive revenue declines of around 7% in both 2026 and 2027 as local competition and price pressure build.",
+      "In June 2026, China's Supreme People's Court upheld a GaN patent injunction against Infineon in favor of local rival Innoscience, barring sales and imports of certain infringing GaN products in China and awarding about 10 million yuan in damages. It's a reminder of the IP and competitive risk coming from Chinese rivals in compound semiconductors.",
+      "New competitive threats are forming too, including a possible merger of Rohm, Toshiba, and Mitsubishi Electric's power semiconductor businesses that would challenge Infineon's silicon-carbide lead, on top of the usual cyclicality risk if automotive and industrial demand stalls again."
     ],
     "catalysts": [
-      "Q3 FY2026 earnings (reported early Aug 2026): record revenue of €4.17bn (+13% YoY), segment margin rose to 19.1%, and full-year guidance raised to ~€16.3bn revenue with ~20% segment margin, driven by AI data center and automotive strength.",
-      "China Supreme People's Court GaN patent ruling (June 13, 2026): upheld injunction against Infineon in the Innoscience case, barring sales of certain GaN products in China; Infineon called the impact \"very limited\" and is pursuing appeal.",
-      "AI data center capacity agreements (disclosed around Q3 FY2026 earnings): multi-year reservation deals with 10+ major AI infrastructure customers, underpinning the jump from ~€0.7bn (FY2025) to >€1.6bn (FY2026E) in AI-related power revenue."
+      "Q3 FY2026 earnings, reported in early August 2026: record revenue of €4.17bn, up 13% YoY, with segment margin rising to 19.1% and full-year guidance raised to roughly €16.3bn in revenue with about 20% segment margin, driven by AI data center and automotive strength.",
+      "China's Supreme People's Court GaN patent ruling on June 13, 2026 upheld an injunction against Infineon in the Innoscience case, barring sales of certain GaN products in China. Infineon called the impact \"very limited\" and is pursuing an appeal.",
+      "AI data center capacity agreements disclosed around the Q3 FY2026 earnings call: multi-year reservation deals with more than 10 major AI infrastructure customers, underpinning the jump in AI-related power revenue from roughly €0.7bn in FY2025 to more than €1.6bn expected in FY2026."
     ],
     "metrics": [
       {
         "label": "Market Cap",
-        "value": "~€74–75 billion (as of Aug 31, 2026)"
+        "value": "~€74-75 billion (as of Aug 31, 2026)"
       },
       {
         "label": "P/E (TTM)",
@@ -327,10 +327,10 @@ window.RESEARCH_DATA = [
       },
       {
         "label": "Analyst Consensus",
-        "value": "Buy (24 analysts), average price target ~€85–86 (~50-55% implied upside from ~€57 spot)"
+        "value": "Buy (24 analysts), average price target ~€85-86 (roughly 50-55% implied upside from the ~€57 spot price)"
       }
     ],
-    "valuationView": "Infineon's trailing P/E of ~62x looks expensive at face value, but it reflects a depressed prior-year earnings base coming out of an automotive/industrial down-cycle rather than a permanently rich multiple — the forward P/E of ~23x is much closer to sector norms for a semiconductor franchise growing low-double-digits with expanding margins. The stock's re-rating this year (market cap up over 50%) has been driven largely by the AI data-center power narrative, which is real but still a small fraction (roughly 10%) of total revenue, meaning execution on that ramp needs to stay on track to justify the premium. With consensus price targets implying meaningful further upside, the market is pricing continued margin expansion and AI-driven growth; China legal/competitive risk and cyclical automotive softness are the main things that could cap further re-rating. On balance the stock looks fully valued on trailing metrics but reasonably priced against forward growth, making it more a \"growth-at-a-fair-price\" AI/power-semi story than a bargain.",
+    "valuationView": "Infineon's trailing P/E of around 62x looks expensive on its face, but that reflects a depressed prior-year earnings base coming out of an automotive and industrial down-cycle, not a permanently rich multiple. The forward P/E of about 23x sits much closer to sector norms for a semiconductor franchise growing at a low-double-digit clip with expanding margins. This year's re-rating, with market cap up more than 50%, has been driven largely by the AI data-center power story, which is real but still only around 10% of total revenue. That means execution on the AI ramp has to stay on track to justify the current premium. Consensus price targets imply meaningful further upside, so the market is already pricing in continued margin expansion and AI-driven growth, with China legal and competitive risk plus cyclical automotive softness as the main things that could cap further gains. The stock looks fully valued on trailing metrics but reasonably priced against forward growth, more a growth-at-a-fair-price story in AI and power semis than an outright bargain.",
     "stance": "Cautiously Bullish",
     "sources": [
       "https://stockanalysis.com/quote/etr/IFX/",
@@ -347,32 +347,32 @@ window.RESEARCH_DATA = [
     "ticker": "MU",
     "companyName": "Micron Technology, Inc.",
     "sector": "Technology",
-    "industry": "Semiconductors (Memory & Storage — DRAM/NAND)",
-    "tagline": "The AI boom's memory bottleneck play — riding an unprecedented DRAM/HBM supercycle, but priced for perfection after a historic run.",
-    "businessOverview": "Micron, founded in 1978 and based in Boise, Idaho, is one of only a few companies with global scale in both DRAM and NAND flash memory. It designs and manufactures memory and storage chips — DRAM, NAND, NOR Flash, and high-bandwidth memory (HBM) — sold as components, modules, and SSDs to data-center, PC, smartphone, automotive, industrial, and consumer customers. Revenue is highly sensitive to memory pricing cycles, and the company currently derives outsized growth from HBM sold into AI accelerator/server platforms alongside broad-based DRAM/NAND price increases.",
+    "industry": "Semiconductors, Memory & Storage (DRAM/NAND)",
+    "tagline": "The AI boom's memory bottleneck play, riding a DRAM/HBM supercycle but priced for perfection after a historic run.",
+    "businessOverview": "Micron, founded in 1978 and based in Boise, Idaho, is one of only a handful of companies with real scale in both DRAM and NAND flash memory. It designs and makes memory and storage chips, including DRAM, NAND, NOR Flash, and high-bandwidth memory (HBM), sold as components, modules, and SSDs to data center, PC, smartphone, automotive, industrial, and consumer customers. Revenue is highly sensitive to memory pricing cycles, and right now the company is seeing outsized growth from HBM sold into AI accelerator and server platforms, on top of broad-based DRAM and NAND price increases.",
     "bullCase": [
-      "Explosive AI-driven demand for HBM (HBM4 now in high-volume shipments, HBM4E in development for 2027) is structurally tightening DRAM supply and lifting pricing across the whole memory market, not just AI-specific SKUs.",
-      "FQ3 FY2026 results were a step-change: ~$41.5B quarterly revenue with ~85% gross margin, and FQ4 guidance of ~$50B revenue at ~86% margin — evidence of severe supply/demand imbalance favoring producers.",
-      "Strategic long-term customer agreements are locking in volume and pricing durability, reducing some of the historical boom-bust unpredictability of memory cycles.",
-      "Sell-side remains broadly bullish (Strong Buy consensus, high average price targets), reflecting confidence the AI memory supercycle has further to run."
+      "Demand for HBM tied to AI is exploding. HBM4 is already shipping in high volume and HBM4E is in development for 2027, and that's structurally tightening DRAM supply and lifting pricing across the whole memory market, not just AI-specific chips.",
+      "FQ3 FY2026 results marked a step change for the business: roughly $41.5B in quarterly revenue at about 85% gross margin, with FQ4 guidance calling for around $50B in revenue at close to 86% margin. That's a severe supply-demand imbalance working in producers' favor.",
+      "Strategic long-term customer agreements are locking in volume and pricing durability, which takes some of the historical boom-bust unpredictability out of the memory cycle.",
+      "Sell-side sentiment remains broadly bullish, with a Strong Buy consensus and high average price targets reflecting confidence that the AI memory supercycle still has room to run."
     ],
     "bearCase": [
-      "Memory is inherently cyclical; the current earnings surge is driven almost entirely by price increases rather than volume, raising doubts about how durable this margin level is once pricing normalizes.",
-      "SK Hynix and Samsung are jointly committing roughly $575B to capacity expansion — a synchronized supply build-out that could flip the market to oversupply and compress ASPs/margins as new fabs ramp in 2027–2028.",
-      "The stock has already fallen over 20% from its June 2026 high (a \"bear market\" move alongside Samsung/SK Hynix), with the broader semiconductor complex questioning how much AI optimism was already priced in.",
-      "New DRAM price-fixing antitrust allegations against Micron, Samsung, and SK Hynix add legal/regulatory overhang, and China has previously restricted Micron sales to critical-infrastructure operators — a recurring geopolitical risk."
+      "Memory is inherently cyclical, and the current earnings surge is driven almost entirely by price increases rather than volume growth. That raises real doubts about how durable this margin level is once pricing normalizes.",
+      "SK Hynix and Samsung are jointly committing roughly $575B to capacity expansion, a synchronized build-out that could flip the market to oversupply and compress prices and margins once new fabs ramp in 2027 and 2028.",
+      "The stock has already fallen more than 20% from its June 2026 high, a \"bear market\" move it shared with Samsung and SK Hynix, as the broader semiconductor complex started questioning how much AI optimism was already priced in.",
+      "New DRAM price-fixing antitrust allegations against Micron, Samsung, and SK Hynix add a legal overhang, and China has previously restricted Micron's sales to critical-infrastructure operators there, a geopolitical risk that tends to resurface."
     ],
     "catalysts": [
-      "FQ3 2026 earnings (Jun 2026): Record results — ~$41.5B revenue, ~85% gross margin, guided FQ4 revenue to ~$50B on continued AI/HBM strength.",
-      "Memory-sector selloff (late Jun–Jul 2026): MU, Samsung, and SK Hynix all fell 20%+ from highs despite strong fundamentals, as the \"AI memory trade\" cracked and ~$1.5T was wiped off semiconductor market caps industry-wide.",
-      "DRAM price-fixing investigation (Jul 2026): New antitrust scrutiny of Micron, Samsung, and SK Hynix over coordinated DRAM/HBM pricing during the supply-constrained environment.",
-      "Capacity expansion race (Jul 2026): Samsung/SK Hynix disclosed a combined ~$575B spending plan, intensifying competitive/oversupply risk for Micron's multi-year roadmap.",
-      "FQ4 2026 earnings scheduled for September 30, 2026 — next major catalyst, will show whether the ~$50B guide and ~86% margin hold."
+      "FQ3 2026 earnings (June 2026): record results, with roughly $41.5B in revenue at about 85% gross margin, and FQ4 revenue guided to around $50B on continued AI and HBM strength.",
+      "A memory-sector selloff in late June and July 2026 saw Micron, Samsung, and SK Hynix all fall more than 20% from their highs despite strong fundamentals, as the AI memory trade cracked and roughly $1.5T came off semiconductor market caps industry-wide.",
+      "A DRAM price-fixing investigation opened in July 2026, bringing new antitrust scrutiny of Micron, Samsung, and SK Hynix over coordinated DRAM and HBM pricing during the supply-constrained stretch.",
+      "Samsung and SK Hynix disclosed a combined roughly $575B capacity expansion plan in July 2026, raising the stakes on competitive and oversupply risk for Micron's multi-year roadmap.",
+      "FQ4 2026 earnings are scheduled for September 30, 2026, the next big test of whether the roughly $50B guide and 86% margin actually hold."
     ],
     "metrics": [
       {
         "label": "Market Cap",
-        "value": "~$1.05 trillion (as of Aug 28–31, 2026)"
+        "value": "~$1.05 trillion (as of Aug 28-31, 2026)"
       },
       {
         "label": "P/E (TTM)",
@@ -384,23 +384,23 @@ window.RESEARCH_DATA = [
       },
       {
         "label": "Revenue (TTM)",
-        "value": "~$90.3 billion (vs. $37.4B in FY2025 — reflects the current pricing supercycle)"
+        "value": "~$90.3 billion, versus $37.4B in FY2025, which shows just how much the current pricing supercycle has moved the number"
       },
       {
         "label": "Revenue Growth (YoY)",
-        "value": "TTM roughly +167%; FQ3 2026 revenue up massively from ~$9.3B in FQ3 2025"
+        "value": "TTM roughly +167%; FQ3 2026 revenue was up massively from ~$9.3B in FQ3 2025"
       },
       {
         "label": "Gross Margin",
-        "value": "~84.6–84.9% (FQ3 FY2026), guided to ~86% in FQ4 — sharply expanded from historical norms due to the pricing cycle peak"
+        "value": "~84.6-84.9% (FQ3 FY2026), guided to ~86% in FQ4, a sharp expansion from historical norms driven by the pricing cycle peak"
       },
       {
         "label": "Analyst Consensus",
-        "value": "Strong Buy (47 analysts), average 12-month price target ~$1,515 (~62% implied upside from ~$930), though targets range widely from ~$361 to ~$2,200"
+        "value": "Strong Buy (47 analysts), average 12-month price target ~$1,515, about 62% above the recent ~$930 price, though individual targets range widely from ~$361 to ~$2,200"
       }
     ],
-    "valuationView": "On trailing earnings, MU's ~21x P/E looks reasonable, and its ~6.5x forward P/E looks outright cheap — but that forward multiple is only credible if the current ~85% gross margin and ~$50B quarterly revenue run-rate are sustainable, which is a large assumption for a historically cyclical commodity-memory business. The stock's 220%+ YTD gain followed by a 20%+ drawdown from its June 2026 peak suggests the market itself is now debating exactly this question — whether AI/HBM demand structurally re-rates memory economics or whether the massive Samsung/SK Hynix capacity build (~$575B) eventually restores the boom-bust pattern that has defined DRAM/NAND for decades. Relative to memory peers, MU's Strong Buy consensus and elevated price targets imply Street confidence in durability, but the forward P/E's steep discount to the trailing P/E signals the market is already pricing a peak-earnings scenario, leaving limited room for a pricing-cycle disappointment before FQ4 results confirm the trajectory.",
-    "stance": "Cautiously Bullish",
+    "valuationView": "On trailing earnings, Micron's roughly 21x P/E looks reasonable, and its 6.5x forward P/E looks outright cheap. But that forward multiple only holds up if the current 85% gross margin and roughly $50B quarterly revenue run-rate are sustainable, which is a big assumption for a business that has historically been a cyclical commodity. The stock's gain of more than 220% year-to-date, followed by a drawdown of more than 20% from its June 2026 peak, shows the market itself wrestling with exactly this question: does AI and HBM demand structurally re-rate memory economics for good, or does the massive Samsung and SK Hynix capacity build eventually bring back the boom-bust pattern that has defined DRAM and NAND for decades? The Strong Buy consensus and elevated price targets suggest the Street currently believes in durability, but the steep gap between the forward and trailing P/E signals the market is already pricing a peak-earnings scenario. That leaves limited room for disappointment before FQ4 results confirm which way this goes.",
+    "stance": "Bullish",
     "sources": [
       "https://stockanalysis.com/stocks/mu/",
       "https://www.stocktitan.net/news/MU/micron-technology-inc-reports-record-results-for-the-third-quarter-6f50161e5zxh.html",
@@ -417,24 +417,24 @@ window.RESEARCH_DATA = [
     "companyName": "RTX Corporation (formerly Raytheon Technologies)",
     "sector": "Industrials",
     "industry": "Aerospace & Defense",
-    "tagline": "A record $289B backlog spanning jet engines, cockpits, and missiles is turning a post-merger fixer-upper into a defense-and-aftermarket compounder.",
-    "businessOverview": "RTX is one of the world's largest aerospace and defense companies, formed from the 2020 merger of Raytheon and United Technologies. It operates through three segments: Collins Aerospace (avionics, cabin interiors, power and control systems for commercial and military aircraft), Pratt & Whitney (jet engines, including the geared turbofan/GTF, plus long-cycle maintenance and aftermarket services), and Raytheon (missiles, missile defense, radars, and sensors for the U.S. and allied militaries). Revenue comes from a mix of commercial aerospace OEM/aftermarket sales and government defense contracts, giving it exposure to both the airline recovery cycle and rising global defense budgets.",
+    "tagline": "A record $289B backlog across jet engines, cockpits, and missiles is turning a post-merger fixer-upper into a genuine compounder.",
+    "businessOverview": "RTX is one of the world's largest aerospace and defense companies, formed from the 2020 merger of Raytheon and United Technologies. It runs three segments: Collins Aerospace, which makes avionics, cabin interiors, and power and control systems for commercial and military aircraft; Pratt & Whitney, which builds jet engines including the geared turbofan (GTF) and runs long-cycle maintenance and aftermarket services; and Raytheon, which supplies missiles, missile defense, radars, and sensors to the U.S. and allied militaries. Revenue is a mix of commercial aerospace OEM and aftermarket sales plus government defense contracts, giving RTX exposure to both the airline recovery and rising global defense budgets.",
     "bullCase": [
-      "Record backlog of $289B (up 22% YoY as of Q2 2026) provides multi-year revenue visibility across commercial aftermarket and defense.",
-      "Structurally higher margins than defense peers (~20-21% gross margin vs. Lockheed Martin's ~10-13%) thanks to high-margin Pratt & Whitney aftermarket and Collins commercial content.",
-      "Selected for the U.S. \"Golden Dome\" missile defense program (~$3.2B awarded, with partner Rocket Lab), extending Raytheon's franchise into next-generation space-based defense spending.",
-      "Management raised full-year 2026 guidance after a strong Q2 beat (sales, EPS, and free cash flow all guided higher), with organic sales growth of 16% and defense demand for missiles/munitions accelerating globally (NATO rearmament, Middle East replenishment)."
+      "A record backlog of $289B, up 22% YoY as of Q2 2026, gives the company multi-year revenue visibility across commercial aftermarket and defense work.",
+      "Margins are structurally higher than defense peers. RTX runs around 20-21% gross margin versus roughly 10-13% at Lockheed Martin, thanks to the high-margin Pratt & Whitney aftermarket business and Collins' commercial content.",
+      "RTX was selected for the U.S. \"Golden Dome\" missile defense program, winning about $3.2B alongside partner Rocket Lab, which extends the Raytheon franchise into next-generation space-based defense spending.",
+      "Management raised full-year 2026 guidance after a strong Q2 beat, lifting sales, EPS, and free cash flow guidance together, with organic sales growth of 16% and missile and munitions demand accelerating globally on NATO rearmament and Middle East replenishment."
     ],
     "bearCase": [
-      "Pratt & Whitney's GTF engine \"powder metal\" remediation remains a persistent drag, requiring costly inspections and forcing delivery/production trade-offs (Airbus publicly cut A320 production goals in Feb 2026 partly due to GTF delays), risking commercial aftermarket revenue and airline relationships.",
-      "Valuation is rich versus history and peers: TTM P/E near 37x and forward P/E near 29x already price in clean execution on engine remediation and flawless backlog conversion, leaving little room for disappointment.",
-      "Heavy reliance on U.S. and allied government defense budgets creates exposure to appropriations delays, program cancellations, or a shift in political priorities.",
-      "Low dividend yield (~1.4%) and modest beta suggest the stock trades more on growth/execution narrative than income or defensive characteristics — a re-rating down is possible if backlog-to-revenue conversion slips."
+      "Pratt & Whitney's GTF engine \"powder metal\" remediation is still a persistent drag, requiring costly inspections and forcing trade-offs between deliveries and production. Airbus publicly cut its A320 production goals in February 2026, partly because of GTF delays, and that puts both commercial aftermarket revenue and airline relationships at risk.",
+      "Valuation is rich against both history and peers. A trailing P/E near 37x and forward P/E near 29x already assume clean execution on engine remediation and flawless backlog conversion, which leaves little room for disappointment.",
+      "Heavy reliance on U.S. and allied government defense budgets exposes RTX to appropriations delays, program cancellations, or a shift in political priorities.",
+      "The dividend yield is low, around 1.4%, and beta is modest, so the stock trades more on its growth and execution story than on income or defensive characteristics. A re-rating lower is possible if backlog-to-revenue conversion slips."
     ],
     "catalysts": [
-      "Q2 2026 earnings (Jul 23, 2026): Revenue of $24.7B (+14.5% YoY) beat estimates; adjusted EPS of $1.89 beat consensus of $1.66; record backlog of $289B; full-year adjusted sales guidance raised to $95B-$96B and EPS to $7.10-$7.25; shares jumped ~5.7% on the print.",
-      "Golden Dome missile defense award (spring 2026): RTX selected for a ~$3.2B space-based interceptor contract under the U.S. \"Golden Dome for America\" program, partnering with Rocket Lab, expanding its space/missile-defense franchise.",
-      "Ongoing GTF engine remediation and Airbus production-rate friction (through 2026): Airbus cut A320 production targets in February 2026 citing GTF delivery constraints, an overhang investors are tracking into H2 2026 as a swing factor for commercial aftermarket revenue."
+      "Q2 2026 earnings (July 23, 2026): revenue of $24.7B, up 14.5% YoY, beat estimates, and adjusted EPS of $1.89 beat the $1.66 consensus. The backlog hit a record $289B, full-year adjusted sales guidance was raised to $95-96B and EPS guidance to $7.10-7.25, and shares jumped about 5.7% on the print.",
+      "The Golden Dome missile defense award in spring 2026 saw RTX selected for a roughly $3.2B space-based interceptor contract under the U.S. \"Golden Dome for America\" program, partnering with Rocket Lab and expanding its space and missile-defense franchise.",
+      "GTF engine remediation and Airbus production-rate friction have continued through 2026. Airbus cut its A320 production targets in February 2026 citing GTF delivery constraints, an overhang investors are tracking into the second half of the year as a swing factor for commercial aftermarket revenue."
     ],
     "metrics": [
       {
@@ -463,10 +463,10 @@ window.RESEARCH_DATA = [
       },
       {
         "label": "Analyst Consensus",
-        "value": "Buy/Strong Buy, average price target ~$234.82 (about 10-11% upside from ~$211-212 share price)"
+        "value": "Buy to Strong Buy, average price target ~$234.82, about 10-11% above the recent $211-212 share price"
       }
     ],
-    "valuationView": "At roughly 37x trailing and 29x forward earnings, RTX trades at a clear premium to defense peers like Lockheed Martin, reflecting its structurally higher margins, record backlog, and dual exposure to the commercial aerospace recovery and a global defense-spending upcycle. The premium looks earned on execution so far — Q2 2026 beat on both revenue and EPS with raised guidance — but it leaves the stock priced for continued flawless delivery, meaning any renewed flare-up in GTF engine remediation costs, a slowdown in backlog conversion, or a defense-budget disappointment could compress the multiple quickly. Relative to its own growth rate and versus peers with thinner margins but cheaper multiples, RTX sits closer to fully valued than cheap, with upside more dependent on continued execution than on multiple expansion.",
+    "valuationView": "At roughly 37x trailing and 29x forward earnings, RTX trades at a clear premium to defense peers like Lockheed Martin, which reflects its structurally higher margins, record backlog, and dual exposure to both the commercial aerospace recovery and a global defense-spending upcycle. That premium looks earned so far. Q2 2026 beat on both revenue and EPS with raised guidance, but it also leaves the stock priced for continued flawless delivery, meaning any renewed flare-up in GTF remediation costs, a slowdown in backlog conversion, or disappointing defense budgets could compress the multiple quickly. Against its own growth rate, and against peers with thinner margins but cheaper multiples, RTX sits closer to fully valued than cheap, with further upside depending more on continued execution than on the multiple expanding further.",
     "stance": "Cautiously Bullish",
     "sources": [
       "https://www.rtx.com/news/news-center/2026/07/23/rtx-reports-q2-2026-results",
