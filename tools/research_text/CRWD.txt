@@ -1,0 +1,49 @@
+TICKER: CRWD
+COMPANY_NAME: CrowdStrike Holdings, Inc.
+SECTOR: Technology
+INDUSTRY: Cybersecurity (Software—Infrastructure / Security Software)
+TAGLINE: The AI-era security leader growing 25%+ at scale, but priced at a triple-digit multiple for flawless execution.
+BUSINESS_OVERVIEW: CrowdStrike sells Falcon, a cloud-native, AI-powered cybersecurity platform built on a single lightweight agent that unifies endpoint protection, identity security, cloud security, threat intelligence, and SIEM/next-gen SOC tools across roughly 30+ modules. Revenue is almost entirely subscription-based, sold via annual/multi-year contracts and increasingly bundled through the "Falcon Flex" consumption model, which drives cross-sell of additional modules into the existing customer base. Growth is measured primarily through Annual Recurring Revenue (ARR), which reached $5.84 billion as of July 2026.
+
+BULL_CASE:
+- Record Q2 FY2027 (reported Aug 26, 2026): revenue up 26% YoY to $1.47B, with net new ARR of $332.8M, a company record, up 51% YoY, driving total ARR to $5.84B (+25% YoY)
+- Falcon Flex bundling and platform consolidation are deepening land-and-expand economics, with enterprises collapsing point-solution vendors into a single Falcon contract
+- AI is becoming both a demand driver (agentic AI creating new attack surfaces) and a product differentiator (Charlotte AI, AI-agent security), management calling it an inflection "Mythos moment" for the category
+- Successfully retained its customer base after the 2024 outage rather than losing share, with a federal shareholder lawsuit over the incident dismissed in January 2026
+- Raised full-year revenue and EPS guidance after the Q2 beat, prompting target hikes from 11+ analyst firms in a single day
+
+BEAR_CASE:
+- Valuation is extreme by conventional measures: TTM P/E near ~5,000x (GAAP earnings are barely positive) and forward P/E around 150x+, versus mid-40s-to-90x for peers like Palo Alto Networks — the stock is priced for near-perfect execution
+- The July 2024 global outage still carries live tail risk: Delta Air Lines' lawsuit (seeking roughly $500M in damages) was allowed to proceed on most claims in 2025, and CrowdStrike issued ~$60M in customer discounts/credits to retain accounts
+- Competitive pressure is intensifying from Microsoft, which bundles endpoint/identity security into its ~$37B security business and can undercut on price, plus SentinelOne and Palo Alto Networks pushing their own AI-native platforms
+- Sustaining 40%+ net-new-ARR growth into FY28 is a high bar; any visible deceleration could trigger sharp multiple compression given how much future growth is already priced in
+- GAAP profitability remains thin relative to market cap, with a meaningful gap between adjusted (non-GAAP) and GAAP results, partly due to stock-based compensation
+
+RECENT_CATALYSTS:
+- Q2 FY2027 earnings (Aug 26, 2026): revenue/ARR beat, record net-new ARR, raised full-year guidance; stock surged ~20% the next session, its best single day on record
+- Jan 2026: federal judge dismissed the shareholder lawsuit alleging CrowdStrike concealed inadequate QA practices ahead of the 2024 outage
+- 2025: Georgia state judge allowed Delta Air Lines' outage-related lawsuit (~$500M claimed damages) to proceed on most counts, keeping outage-related legal risk alive
+- Early 2026: company crossed the $5 billion ARR milestone, a symbolic scale marker cited widely in coverage
+
+KEY_METRICS:
+- Market Cap: ~$223.6B (Aug 31, 2026)
+- P/E (TTM): ~4,970x (GAAP net income is near breakeven, so this multiple is not economically meaningful)
+- Forward P/E: ~155x (consensus-estimate basis; some sources citing non-GAAP-adjusted forward EPS peg it closer to ~90x)
+- Revenue (TTM): $5.40B
+- Revenue Growth (YoY): +24.3% TTM (+26% in most recent quarter)
+- Gross Margin: 75.2%
+- Analyst Consensus: Buy/Moderate-to-Strong Buy; average price target ~$229 (post-earnings target raises from RBC, UBS, Morgan Stanley and others range roughly $238–$260)
+
+VALUATION_VIEW: CrowdStrike screens as expensive on every traditional yardstick — a triple-digit forward P/E and a ~41x sales multiple that assume years of continued 25%+ growth and steadily expanding margins. That said, the business is executing at a level that partially justifies a premium: record net-new ARR growth is accelerating rather than decelerating, gross margins are software-grade at ~75%, and the company has weathered a reputationally damaging outage without losing meaningful share. The valuation leaves very little room for error — a growth slowdown, a large new competitive loss to Microsoft, or an adverse outcome in the Delta litigation could compress the multiple sharply. On a growth-adjusted basis relative to cybersecurity peers, CRWD is arguably the highest-quality asset in the group, but it is priced accordingly, making it a "pay up for the best" story rather than a value opportunity.
+
+STANCE: Cautiously Bullish
+
+SOURCES:
+- https://finance.yahoo.com/markets/stocks/articles/crowdstrike-q2-fy2027-earnings-beat-204637537.html
+- https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html
+- https://stockanalysis.com/stocks/crwd/
+- https://stockanalysis.com/stocks/crwd/statistics/
+- https://www.cybersecuritydive.com/news/crowdstrike-retains-customers/734203/
+- https://www.cnbc.com/2026/01/14/crowdstrike-defeats-shareholder-lawsuit-over-huge-software-outage.html
+- https://www.fool.com/investing/2026/08/30/is-it-too-late-to-buy-crowdstrike-stock-after-its/
+- https://www.benzinga.com/analyst-stock-ratings/price-target/26/08/61472513/crowdstrike-stock-best-day-ever-analyst-price-targets

@@ -1,0 +1,47 @@
+TICKER: MU
+COMPANY_NAME: Micron Technology, Inc.
+SECTOR: Technology
+INDUSTRY: Semiconductors (Memory & Storage — DRAM/NAND)
+TAGLINE: The AI boom's memory bottleneck play — riding an unprecedented DRAM/HBM supercycle, but priced for perfection after a historic run.
+
+BUSINESS_OVERVIEW: Micron, founded in 1978 and based in Boise, Idaho, is one of only a few companies with global scale in both DRAM and NAND flash memory. It designs and manufactures memory and storage chips — DRAM, NAND, NOR Flash, and high-bandwidth memory (HBM) — sold as components, modules, and SSDs to data-center, PC, smartphone, automotive, industrial, and consumer customers. Revenue is highly sensitive to memory pricing cycles, and the company currently derives outsized growth from HBM sold into AI accelerator/server platforms alongside broad-based DRAM/NAND price increases.
+
+BULL_CASE:
+- Explosive AI-driven demand for HBM (HBM4 now in high-volume shipments, HBM4E in development for 2027) is structurally tightening DRAM supply and lifting pricing across the whole memory market, not just AI-specific SKUs.
+- FQ3 FY2026 results were a step-change: ~$41.5B quarterly revenue with ~85% gross margin, and FQ4 guidance of ~$50B revenue at ~86% margin — evidence of severe supply/demand imbalance favoring producers.
+- Strategic long-term customer agreements are locking in volume and pricing durability, reducing some of the historical boom-bust unpredictability of memory cycles.
+- Sell-side remains broadly bullish (Strong Buy consensus, high average price targets), reflecting confidence the AI memory supercycle has further to run.
+
+BEAR_CASE:
+- Memory is inherently cyclical; the current earnings surge is driven almost entirely by price increases rather than volume, raising doubts about how durable this margin level is once pricing normalizes.
+- SK Hynix and Samsung are jointly committing roughly $575B to capacity expansion — a synchronized supply build-out that could flip the market to oversupply and compress ASPs/margins as new fabs ramp in 2027–2028.
+- The stock has already fallen over 20% from its June 2026 high (a "bear market" move alongside Samsung/SK Hynix), with the broader semiconductor complex questioning how much AI optimism was already priced in.
+- New DRAM price-fixing antitrust allegations against Micron, Samsung, and SK Hynix add legal/regulatory overhang, and China has previously restricted Micron sales to critical-infrastructure operators — a recurring geopolitical risk.
+
+RECENT_CATALYSTS:
+- FQ3 2026 earnings (Jun 2026): Record results — ~$41.5B revenue, ~85% gross margin, guided FQ4 revenue to ~$50B on continued AI/HBM strength.
+- Memory-sector selloff (late Jun–Jul 2026): MU, Samsung, and SK Hynix all fell 20%+ from highs despite strong fundamentals, as the "AI memory trade" cracked and ~$1.5T was wiped off semiconductor market caps industry-wide.
+- DRAM price-fixing investigation (Jul 2026): New antitrust scrutiny of Micron, Samsung, and SK Hynix over coordinated DRAM/HBM pricing during the supply-constrained environment.
+- Capacity expansion race (Jul 2026): Samsung/SK Hynix disclosed a combined ~$575B spending plan, intensifying competitive/oversupply risk for Micron's multi-year roadmap.
+- FQ4 2026 earnings scheduled for September 30, 2026 — next major catalyst, will show whether the ~$50B guide and ~86% margin hold.
+
+KEY_METRICS:
+- Market Cap: ~$1.05 trillion (as of Aug 28–31, 2026)
+- P/E (TTM): ~21.1
+- Forward P/E: ~6.5
+- Revenue (TTM): ~$90.3 billion (vs. $37.4B in FY2025 — reflects the current pricing supercycle)
+- Revenue Growth (YoY): TTM roughly +167%; FQ3 2026 revenue up massively from ~$9.3B in FQ3 2025
+- Gross Margin: ~84.6–84.9% (FQ3 FY2026), guided to ~86% in FQ4 — sharply expanded from historical norms due to the pricing cycle peak
+- Analyst Consensus: Strong Buy (47 analysts), average 12-month price target ~$1,515 (~62% implied upside from ~$930), though targets range widely from ~$361 to ~$2,200
+
+VALUATION_VIEW: On trailing earnings, MU's ~21x P/E looks reasonable, and its ~6.5x forward P/E looks outright cheap — but that forward multiple is only credible if the current ~85% gross margin and ~$50B quarterly revenue run-rate are sustainable, which is a large assumption for a historically cyclical commodity-memory business. The stock's 220%+ YTD gain followed by a 20%+ drawdown from its June 2026 peak suggests the market itself is now debating exactly this question — whether AI/HBM demand structurally re-rates memory economics or whether the massive Samsung/SK Hynix capacity build (~$575B) eventually restores the boom-bust pattern that has defined DRAM/NAND for decades. Relative to memory peers, MU's Strong Buy consensus and elevated price targets imply Street confidence in durability, but the forward P/E's steep discount to the trailing P/E signals the market is already pricing a peak-earnings scenario, leaving limited room for a pricing-cycle disappointment before FQ4 results confirm the trajectory.
+
+STANCE: Cautiously Bullish
+
+SOURCES:
+- https://stockanalysis.com/stocks/mu/
+- https://www.stocktitan.net/news/MU/micron-technology-inc-reports-record-results-for-the-third-quarter-6f50161e5zxh.html
+- https://www.globenewswire.com/news-release/2026/08/26/3351673/14450/en/micron-technology-to-report-fiscal-fourth-quarter-results-on-september-30-2026.html
+- https://finance.yahoo.com/markets/article/micron-samsung-sk-hynix-just-dragged-memory-stocks-into-a-bear-market-154549356.html
+- https://www.fool.com/investing/2026/07/06/microns-strategy-face-sk-hynix-samsung-spend/
+- https://www.trendforce.com/news/2026/07/08/news-new-dram-price-fixing-case-against-samsung-sk-hynix-and-micron-tests-whether-hbm-expansion-can-prove-collusion/

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Equity Research</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" href="data:,">
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="wrap">
+    <a href="index.html" class="brand"><span class="mark">ER</span> Equity Research Portfolio</a>
+    <div class="navlinks">
+      <a href="index.html#coverage">Coverage</a>
+      <a href="index.html#methodology">Methodology</a>
+    </div>
+  </div>
+</nav>
+
+<header class="stock-header">
+  <div class="wrap">
+    <a href="index.html" class="back-link">← Back to all coverage</a>
+    <div class="stock-header-top">
+      <div>
+        <div class="stock-title-row">
+          <span class="ticker" id="sh-ticker"></span>
+          <span class="stance-badge" id="sh-stance"></span>
+        </div>
+        <h1 class="company-title" id="sh-company"></h1>
+        <div class="stock-header-tags">
+          <span class="pill" id="sh-sector"></span>
+          <span class="pill" id="sh-industry"></span>
+        </div>
+      </div>
+      <div class="price-block">
+        <div class="price-now" id="sh-price"></div>
+        <div class="price-range" id="sh-range"></div>
+      </div>
+    </div>
+    <p class="tagline-full" id="sh-tagline"></p>
+  </div>
+</header>
+
+<section class="section">
+  <div class="wrap">
+    <div class="chart-panel" id="chart-panel">
+      <div class="chart-panel-head">
+        <div class="range-toggle">
+          <button data-months="6">6M</button>
+          <button data-months="12" class="active">1Y</button>
+          <button data-months="36">3Y</button>
+        </div>
+        <span class="chart-return"></span>
+      </div>
+      <div class="chart-svg-wrap"></div>
+      <div class="chart-axis-labels"></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;">
+  <div class="wrap">
+    <p class="subhead">Key Metrics</p>
+    <div class="metrics-grid" id="metrics-grid"></div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;">
+  <div class="wrap">
+    <p class="subhead">Business Overview</p>
+    <div class="prose-panel"><p id="business-overview"></p></div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;">
+  <div class="wrap">
+    <p class="subhead">Investment Case</p>
+    <div class="two-col">
+      <div class="case-panel bull">
+        <p class="case-title">Bull case</p>
+        <ul class="case-list" id="bull-list"></ul>
+      </div>
+      <div class="case-panel bear">
+        <p class="case-title">Bear case</p>
+        <ul class="case-list" id="bear-list"></ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;">
+  <div class="wrap">
+    <p class="subhead">Recent Catalysts</p>
+    <div class="prose-panel">
+      <div class="catalyst-list" id="catalyst-list"></div>
+    </div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;">
+  <div class="wrap">
+    <p class="subhead">Valuation View</p>
+    <div class="prose-panel"><p id="valuation-view"></p></div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;">
+  <div class="wrap">
+    <p class="subhead">Sources</p>
+    <ul class="sources-list" id="sources-list"></ul>
+  </div>
+</section>
+
+<section class="section mt-40" style="padding-top:0;">
+  <div class="wrap">
+    <div style="display:flex; justify-content:space-between; border-top:1px solid var(--border-soft); padding-top:24px;">
+      <a href="#" id="prev-link" class="back-link">← <span class="pnav-ticker"></span></a>
+      <a href="#" id="next-link" class="back-link"><span class="pnav-ticker"></span> →</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p class="disclaimer">
+      <strong>Disclaimer:</strong> This writeup reflects independent research compiled for portfolio and educational purposes only. It does not constitute investment advice, a recommendation, or an offer to buy or sell any security. Figures are approximate, sourced from public data as of the dates noted above, and may not reflect current market conditions. Always do your own research and consult a licensed financial advisor before making investment decisions.
+    </p>
+    <div class="footer-bottom">
+      <span>© 2026 Bhargav Joshi</span>
+      <span>Built with vanilla HTML/CSS/JS · hosted on GitHub Pages</span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/data/research-data.js"></script>
+<script src="assets/data/price-data.js"></script>
+<script src="assets/data/price-summary.js"></script>
+<script src="assets/js/chart.js"></script>
+<script src="assets/js/main.js"></script>
+<script>SiteRender.renderStockPage();</script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+TICKER: PLTR
+COMPANY_NAME: Palantir Technologies Inc.
+SECTOR: Technology
+INDUSTRY: Software—Infrastructure (Big Data / AI Analytics)
+TAGLINE: The fastest-growing large-cap software name in the market, priced for a decade of flawless execution.
+
+BUSINESS_OVERVIEW: Palantir builds data-integration and decision-making software — Gotham for government/defense/intelligence customers, Foundry for commercial enterprises, Apollo for continuous software deployment, and the AI Platform (AIP) layered across both. Its "ontology" approach connects an organization's raw data, business logic, and workflows into a live operational model that both humans and AI agents can act on. Revenue comes from software licensing/subscriptions and implementation services sold via long-term government contracts (historically the core) and, increasingly, commercial enterprise deals accelerated by AIP bootcamps that convert pilots into paid deployments.
+
+BULL_CASE:
+- Revenue growth is accelerating, not decelerating — Q2 2026 revenue grew 93% YoY (fastest on record) with U.S. commercial revenue up 149% YoY, prompting the largest full-year guidance raise in company history (FY2026 revenue now guided to ~82% YoY growth).
+- AIP has created a genuine land-and-expand engine: record $2.13B of U.S. commercial total contract value booked in Q2 2026, suggesting bookings are outpacing what the company can even bill.
+- Best-in-class profitability for a hypergrowth name — ~85% gross margin, ~43% operating margin, ~49% net margin, strong free cash flow ($3.4B TTM), and a pristine balance sheet ($9.4B cash vs. ~$211M debt).
+- Deepening moat in government/defense as an AI-era prime contractor, with expanding no-bid/sole-source Pentagon work and new industrial partnerships (e.g., Mercury Systems) extending it into defense manufacturing and reindustrialization themes.
+
+BEAR_CASE:
+- Valuation is extreme by any conventional measure — TTM P/E near 160x, forward P/E near 98x, and price-to-sales above 70x, pricing in years of near-flawless hypergrowth and margin expansion.
+- Heavy reliance on U.S. government contracts (concentrated customer base, political/budget cycle risk, procurement scrutiny of no-bid awards) makes revenue mix less diversified than headline commercial growth suggests.
+- Stock-based compensation and share dilution remain a persistent drag on GAAP results and shareholder value even as adjusted metrics look pristine.
+- Any deceleration in commercial bookings growth or a miss against sky-high guidance could trigger an outsized multiple contraction, given how much future growth is already embedded in the price; 52-week range ($106–$208) shows how volatile sentiment on the stock can be.
+
+RECENT_CATALYSTS:
+- Q2 2026 earnings (Aug 3, 2026): Revenue of $1.94B (+93% YoY) beat consensus; adjusted EPS $0.41 vs. ~$0.34 expected; FY2026 revenue guidance raised to $8.15–$8.16B (~82% YoY growth), the largest full-year raise in company history.
+- Mercury Systems partnership (Aug 2026, same week as earnings): New agreement to use Palantir's ontology/software for defense-manufacturing digital twins and material planning, extending Palantir into the industrial/reindustrialization supply chain.
+- Pentagon funding expansion (Aug 11, 2026): DoD memo directing up to an additional $244M in funding for Palantir services through March 2027, part of over $3B in contract obligations since 2024, roughly half via no-bid/sole-source awards.
+
+KEY_METRICS:
+- Market Cap: ~$447.7 billion (as of late Aug 2026)
+- P/E (TTM): ~159x
+- Forward P/E: ~98x
+- Revenue (TTM): ~$6.16 billion
+- Revenue Growth (YoY): 93% (Q2 2026); FY2026 guidance ~82% YoY
+- Gross Margin: ~84.8%
+- Analyst Consensus: Buy (consensus of ~27-32 analysts), average price target ~$192 (range roughly $80–$255)
+
+VALUATION_VIEW: By traditional multiples, Palantir looks priced at the extreme high end of the software universe — a triple-digit trailing P/E, a forward P/E near 100x, and a price-to-sales multiple above 70x are figures normally reserved for much smaller, earlier-stage companies, not a $450B business. The bull argument rests on genuinely rare fundamentals to match: 90%+ revenue growth, ~85% gross margins, and expanding operating leverage that few large-cap software peers can show simultaneously, which is why the PEG ratio (~1.3–1.8x) reads less stretched than the headline P/E. Even so, the valuation leaves very little room for error — sustained deceleration in commercial bookings, government budget friction, or margin compression would likely compress the multiple sharply, since so much of the current price already assumes years of continued hypergrowth. Relative to peers (enterprise AI/data software), Palantir trades at a substantial premium that is only justifiable if its growth rate remains a clear outlier for several more years.
+
+STANCE: Cautiously Bullish
+
+SOURCES:
+- https://finance.yahoo.com/markets/stocks/articles/palantir-reports-q2-2026-u-200500706.html
+- https://www.sec.gov/Archives/edgar/data/1321655/000132165526000039/a2026q2ex991pressrelease.htm
+- https://stockanalysis.com/stocks/pltr/statistics/
+- https://stockanalysis.com/stocks/pltr/forecast/
+- https://simplywall.st/stocks/us/software/nasdaq-pltr/palantir-technologies/news/palantir-technologies-pltr-is-up-398-after-raising-2026-guid
+- https://www.nextgov.com/acquisition/2026/08/palantirs-no-bid-pipeline-just-got-bigger/415379/
+- https://www.palantir.com/docs/foundry/aip/overview
