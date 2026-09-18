@@ -117,7 +117,14 @@ async function main() {
   const lastDate = Object.keys(TICKERS).map((k) => summary[TICKERS[k]].lastDate).sort().pop();
   const meta = { updatedAt: new Date().toISOString(), lastDate };
 
-  fs.writeFileSync(path.join(outDir, 'price-data.js'), 'window.PRICE_DATA = ' + JSON.stringify(priceData) + ';\n');
+  const priceDataJs = 'window.PRICE_DATA = ' + JSON.stringify(priceData) + ';\n';
+  const existing = fs.existsSync(path.join(outDir, 'price-data.js')) ? fs.readFileSync(path.join(outDir, 'price-data.js'), 'utf8') : '';
+  if (existing === priceDataJs) {
+    console.log('\nNo new price data since the last run. Nothing written.');
+    return;
+  }
+
+  fs.writeFileSync(path.join(outDir, 'price-data.js'), priceDataJs);
   fs.writeFileSync(path.join(outDir, 'price-summary.js'), 'window.PRICE_SUMMARY = ' + JSON.stringify(summary) + ';\n');
   fs.writeFileSync(path.join(outDir, 'price-summary.json'), JSON.stringify(summary, null, 2));
   fs.writeFileSync(path.join(outDir, 'price-meta.js'), 'window.PRICE_META = ' + JSON.stringify(meta) + ';\n');

@@ -48,7 +48,10 @@
     const meta = window.PRICE_META || {};
     const rmeta = window.RESEARCH_META || {};
     const bits = [];
-    if (meta.lastDate) bits.push('Prices through ' + fmtLongDate(meta.lastDate));
+    if (meta.lastDate) {
+      const ageDays = (Date.now() - Date.parse(meta.lastDate + 'T00:00:00Z')) / 86400000;
+      bits.push('Prices through ' + fmtLongDate(meta.lastDate) + (ageDays > 5 ? ' (may be out of date)' : ''));
+    }
     if (rmeta.fundamentalsAsOf) bits.push('fundamentals as of ' + fmtLongDate(rmeta.fundamentalsAsOf));
     return bits.join(' · ');
   }
