@@ -9,14 +9,14 @@ BULL_CASE:
 - Q2 FY2027, reported Aug 26, 2026, was a record quarter: revenue rose 26% YoY to $1.47B, and net new ARR hit a company record of $332.8M, up 51% YoY, pushing total ARR to $5.84B, up 25% YoY.
 - Falcon Flex bundling and platform consolidation are deepening the land-and-expand model, with enterprises folding point-solution vendors into a single Falcon contract.
 - AI is turning into both a demand driver and a product differentiator here. Agentic AI is creating new attack surfaces to defend, while Charlotte AI and CrowdStrike's own AI-agent security tools give it something to sell against that. Management has called this an inflection point for the category.
-- The company held onto its customer base after the 2024 outage instead of losing share, and a federal shareholder lawsuit over the incident was dismissed in January 2026.
-- Full-year revenue and EPS guidance were raised after the Q2 beat, which triggered price target increases from more than 11 analyst firms in a single day.
+- The company held onto its customer base after the 2024 outage instead of losing share, and a federal shareholder lawsuit over the incident was dismissed in January 2026, though without prejudice.
+- Full-year revenue and EPS guidance were raised after the Q2 beat, which triggered price target increases from 11 analyst firms in a single day.
 
 BEAR_CASE:
-- Valuation is extreme by any conventional measure. Trailing P/E sits near 5,000x, since GAAP earnings are barely positive, and forward P/E is above 150x, compared with the mid-40s to 90x range for peers like Palo Alto Networks. The stock is priced for near-perfect execution.
-- The July 2024 global outage still carries real tail risk. Delta Air Lines' lawsuit, seeking roughly $500M in damages, was allowed to proceed on most claims in 2025, and CrowdStrike has already issued about $60M in customer discounts and credits to retain accounts.
-- Competition is intensifying, particularly from Microsoft, which bundles endpoint and identity security into its roughly $37B security business and can undercut on price. SentinelOne and Palo Alto Networks are also pushing their own AI-native platforms.
-- Keeping net-new-ARR growth above 40% into FY28 is a high bar, and any visible slowdown could trigger sharp multiple compression given how much future growth is already baked into the price.
+- Valuation is extreme by any conventional measure. Trailing P/E sits above 5,000x, since GAAP earnings are barely positive, and forward P/E is around 170x, compared with roughly 90x for Palo Alto Networks. The stock is priced for near-perfect execution.
+- The July 2024 global outage still carries real tail risk. Delta Air Lines' lawsuit, seeking roughly $500M in damages, was allowed to proceed on most claims in 2025, and CrowdStrike absorbed roughly $60M of revenue impact from customer commitment discounts and extensions to retain accounts. The company argues contract caps would limit any damages to the single-digit millions.
+- Competition is intensifying, particularly from Microsoft, which bundles endpoint and identity security into a security business estimated at more than $20B in annual revenue and can undercut on price. SentinelOne and Palo Alto Networks are also pushing their own AI-native platforms.
+- Sustaining net-new-ARR growth near the roughly 34% guided for FY27, after a 51% Q2, is a high bar, and any visible slowdown could trigger sharp multiple compression given how much future growth is already baked into the price.
 - GAAP profitability is still thin relative to the market cap, with a wide gap between adjusted and GAAP results, largely due to stock-based compensation.
 
 RECENT_CATALYSTS:
@@ -24,21 +24,29 @@ RECENT_CATALYSTS:
 - January 2026: a federal judge dismissed the shareholder lawsuit alleging CrowdStrike concealed inadequate QA practices ahead of the 2024 outage.
 - 2025: a Georgia state judge allowed Delta Air Lines' outage-related lawsuit, seeking roughly $500M in damages, to proceed on most counts, keeping that legal risk alive.
 - Early 2026: the company crossed the $5 billion ARR milestone, a scale marker that got wide coverage.
+- July 1, 2026: a 4-for-1 stock split took effect after the close, so the per-share targets and EPS figures on this page are split-adjusted.
 
 KEY_METRICS:
-- Market Cap: ~$223.6B (Aug 31, 2026)
-- P/E (TTM): ~4,970x (GAAP net income is near breakeven, so this multiple isn't economically meaningful)
-- Forward P/E: ~155x on a consensus-estimate basis, though some sources using non-GAAP-adjusted forward EPS put it closer to ~90x
+- Market Cap: ~$237B (as of Aug 31, 2026, at a $231 close)
+- P/E (TTM): ~5,300x (GAAP net income is near breakeven, so this multiple isn't economically meaningful)
+- Forward P/E: ~170x, and it stays near that level even on non-GAAP FY27 EPS guidance of $1.25-1.26
 - Revenue (TTM): $5.40B
 - Revenue Growth (YoY): +24.3% TTM (+26% in the most recent quarter)
 - Gross Margin: 75.2%
-- Analyst Consensus: Buy to Strong Buy; average price target ~$229 (post-earnings target raises from RBC, UBS, Morgan Stanley, and others range roughly $238-$260)
+- Analyst Consensus: Buy (53 analysts), average price target ~$234 (range $119-$300). Post-earnings raises from RBC, UBS, Morgan Stanley, and others cluster at $238-$260, while a few older, lower targets pull the average down
+PRICE_TARGET: low=119 avg=234.09 high=300 analysts=53 asof=2026-09-18
 
-VALUATION_VIEW: CrowdStrike looks expensive by every traditional yardstick: a triple-digit forward P/E and a sales multiple near 41x assume years of continued 25%+ growth and steadily expanding margins. That said, the business is executing well enough to partly justify a premium. Net-new ARR growth is accelerating rather than slowing, gross margins are software-grade at around 75%, and the company came through a reputationally damaging outage without losing meaningful share. There's still very little room for error: a growth slowdown, a major competitive loss to Microsoft, or an unfavorable outcome in the Delta litigation could compress the multiple quickly. Relative to other cybersecurity names on a growth-adjusted basis, CrowdStrike is probably the highest-quality asset in the group, but it's priced that way too, which makes this more a "pay up for the best" stock than a value opportunity.
+VALUATION_VIEW: CrowdStrike looks expensive by every traditional yardstick: a triple-digit forward P/E and a sales multiple near 44x assume years of continued 25%+ growth and steadily expanding margins. That said, the business is executing well enough to partly justify a premium. Net-new ARR growth is accelerating rather than slowing, gross margins are software-grade at around 75%, and the company came through a reputationally damaging outage without losing meaningful share. There's still very little room for error: a growth slowdown, a major competitive loss to Microsoft, or an unfavorable outcome in the Delta litigation could compress the multiple quickly. Relative to other cybersecurity names on a growth-adjusted basis, CrowdStrike is probably the highest-quality asset in the group, but it's priced that way too, which makes this more a "pay up for the best" stock than a value opportunity.
 
 STANCE: Neutral
 
+UPDATES:
+- CrowdStrike used its Fal.Con event on Sep 1 to launch new AI security products, including runtime protection for AI agents. The stock dipped to about $203 on Sep 2, then rallied to close at $237 on Sep 18.
+- Targets kept rising after earnings: Scotiabank moved to $265, Stephens to $280, and Bank of America to $260 (Hold). At the higher price the trailing P/E is about 5,400x, the forward P/E about 174x, and the price-to-sales ratio about 45x.
+
 SOURCES:
+- https://www.tikr.com/blog/crowdstrike-raised-targets-everywhere-after-fal-con-but-the-stock-keeps-drifting-lower
+- https://stockanalysis.com/stocks/crwd/forecast/
 - https://finance.yahoo.com/markets/stocks/articles/crowdstrike-q2-fy2027-earnings-beat-204637537.html
 - https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html
 - https://stockanalysis.com/stocks/crwd/

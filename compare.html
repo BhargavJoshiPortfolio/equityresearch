@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Compare Performance | Equity Research Portfolio</title>
+<meta name="description" content="All seven covered stocks rebased to 100 on one chart, with S&P 500 and semiconductor index benchmarks.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Equity Research Portfolio">
+<meta property="og:title" content="Compare Performance | Equity Research Portfolio">
+<meta property="og:description" content="All seven covered stocks rebased to 100 on one chart, with S&P 500 and semiconductor index benchmarks.">
+<meta property="og:image" content="https://bhargavjoshiportfolio.github.io/equityresearch/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="wrap">
+    <a href="index.html" class="brand"><span class="mark">ER</span><span class="brand-text">Equity Research Portfolio</span></a>
+    <div class="navlinks">
+      <a href="index.html#coverage">Coverage</a>
+      <a href="compare.html" class="nav-active" aria-current="page">Compare</a>
+      <a href="index.html#methodology">Methodology</a>
+    </div>
+  </div>
+</nav>
+
+<header class="stock-header">
+  <div class="wrap">
+    <a href="index.html" class="back-link">&larr; Back to all coverage</a>
+    <h1 class="company-title" style="font-size:34px;margin-top:0;">Compare performance</h1>
+    <p class="tagline-full" style="margin-top:8px;">Every stock is rebased to 100 at the start of the period you pick, so a $1,000 stock and a $15 stock can be read on the same axis. A value of 250 means the stock is up 150% over the period.</p>
+    <p class="asof" id="asof"></p>
+  </div>
+</header>
+
+<section class="section" style="padding-bottom:24px;">
+  <div class="wrap">
+    <div class="controls">
+      <div class="control">
+        <span class="control-label">Period</span>
+        <div class="range-toggle" id="range-toggle" role="group" aria-label="Period">
+          <button type="button" data-months="6" aria-pressed="false">6M</button>
+          <button type="button" data-months="12" class="active" aria-pressed="true">1Y</button>
+          <button type="button" data-months="36" aria-pressed="false">3Y</button>
+        </div>
+      </div>
+      <div class="control">
+        <span class="control-label">Scale</span>
+        <div class="range-toggle" id="scale-toggle" role="group" aria-label="Scale">
+          <button type="button" data-scale="log" class="active" aria-pressed="true">Log</button>
+          <button type="button" data-scale="linear" aria-pressed="false">Linear</button>
+        </div>
+      </div>
+      <div class="control">
+        <label class="control-label" for="bench-select">Benchmark</label>
+        <select class="select" id="bench-select">
+          <option value="SPX">S&amp;P 500</option>
+          <option value="SOX">Semiconductor index (SOX)</option>
+          <option value="none">None</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="legend" id="legend" role="group" aria-label="Series. Click to show or hide."></div>
+
+    <div class="chart-panel">
+      <div id="cmp-chart"></div>
+    </div>
+    <p class="note">Log scale is the default because Micron's gain dwarfs the rest; on a log scale, equal vertical distances mean equal percentage moves. Hover or tap the chart to compare values on any date, or focus it and use the arrow keys.</p>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;">
+  <div class="wrap">
+    <p class="subhead">Total return by period</p>
+    <div class="table-wrap">
+      <table class="data" id="returns-table">
+        <thead><tr><th>Company</th><th>6M</th><th>1Y</th><th>3Y</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="note">Sorted by the selected period. Returns are price-only (dividends excluded) and measured in each stock's own currency, so Infineon's figures are in euros. Benchmarks are shaded.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p class="disclaimer">
+      <strong>Disclaimer:</strong> Past performance says little about future results. This page is independent research put together for portfolio and educational purposes only. None of it is investment advice, a recommendation, or an offer to buy or sell any security.
+    </p>
+    <div class="footer-bottom">
+      <span>&copy; 2026 Bhargav Joshi</span>
+      <span>Built with vanilla HTML/CSS/JS &middot; hosted on GitHub Pages</span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/data/research-data.js"></script>
+<script src="assets/data/price-data.js"></script>
+<script src="assets/data/price-summary.js"></script>
+<script src="assets/data/price-meta.js"></script>
+<script src="assets/js/chart.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/compare.js"></script>
+</body>
+</html>

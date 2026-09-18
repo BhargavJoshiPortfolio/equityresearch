@@ -5,19 +5,27 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Equity Research Portfolio | Bhargav Joshi</title>
 <meta name="description" content="Independent equity research and performance analysis on Palantir, Gilead Sciences, Himax, CrowdStrike, Infineon, Micron, and RTX.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Equity Research Portfolio">
+<meta property="og:title" content="Equity Research Portfolio | Bhargav Joshi">
+<meta property="og:description" content="Independent equity research on Palantir, Gilead, Himax, CrowdStrike, Infineon, Micron, and RTX, with interactive price charts.">
+<meta property="og:url" content="https://bhargavjoshiportfolio.github.io/equityresearch/">
+<meta property="og:image" content="https://bhargavjoshiportfolio.github.io/equityresearch/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.css">
-<link rel="icon" href="data:,">
+<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 </head>
 <body>
 
 <nav class="topnav">
   <div class="wrap">
-    <a href="index.html" class="brand"><span class="mark">ER</span> Equity Research Portfolio</a>
+    <a href="index.html" class="brand"><span class="mark">ER</span><span class="brand-text">Equity Research Portfolio</span></a>
     <div class="navlinks">
       <a href="#coverage">Coverage</a>
+      <a href="compare.html">Compare</a>
       <a href="#methodology">Methodology</a>
     </div>
   </div>
@@ -25,14 +33,14 @@
 
 <header class="hero">
   <div class="wrap">
-    <p class="eyebrow">Live coverage · updated Aug 2026</p>
+    <p class="eyebrow" id="asof">Live coverage</p>
     <h1 class="hero-title">Equity research on <span class="accent">7 companies</span> across AI, defense, and semiconductors.</h1>
     <p class="hero-sub">Each writeup covers the bull case, bear case, valuation, and how the stock has actually traded. A portfolio project by Bhargav Joshi.</p>
     <div class="hero-meta">
       <span class="pill">7 companies</span>
       <span class="pill">3-year price history</span>
       <span class="pill">Bull / bear framework</span>
-      <span class="pill">Updated regularly</span>
+      <a class="pill" href="compare.html">Compare all 7 &rarr;</a>
     </div>
   </div>
 </header>
@@ -45,6 +53,7 @@
         <p>Click any name for the full writeup, price chart, and key metrics.</p>
       </div>
     </div>
+    <div class="controls" id="grid-controls"></div>
     <div class="grid" id="stock-grid"></div>
   </div>
 </section>
@@ -73,8 +82,9 @@
 <script src="assets/data/research-data.js"></script>
 <script src="assets/data/price-data.js"></script>
 <script src="assets/data/price-summary.js"></script>
+<script src="assets/data/price-meta.js"></script>
 <script src="assets/js/chart.js"></script>
 <script src="assets/js/main.js"></script>
-<script>SiteRender.renderGrid('stock-grid');</script>
+<script>SiteRender.renderGrid('stock-grid', 'grid-controls');</script>
 </body>
 </html>

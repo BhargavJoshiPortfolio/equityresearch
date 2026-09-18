@@ -7,20 +7,21 @@ BUSINESS_OVERVIEW: Himax is a Taiwan-based fabless semiconductor company that de
 
 BULL_CASE:
 - The automotive IC franchise, covering driver ICs, TDDI, and local-dimming Tcon, is the number one global share leader and keeps growing at a double-digit clip, giving Himax a stickier and less cyclical revenue base than its legacy consumer display chips.
-- Q2 2026 results beat guidance across the board: revenue up 14.2% sequentially, gross margin at 33.1%, and EPS well ahead of estimates. Q3 guidance was raised too, which hints at a cyclical turn after a weak 2025.
+- Q2 2026 results beat guidance across the board: revenue up 14.2% sequentially, gross margin at 33.1%, and EPS well ahead of estimates. Q3 guidance calls for a further 7-11% sequential revenue increase and gross margin near 34%, which hints at a cyclical turn after a weak 2025.
 - Himax has a first-mover position in LCoS microdisplays for AR and smart glasses, with named partners like AUO and Vuzix and no real merchant-scale competitor. That makes it a key supplier if Meta Ray-Ban-style AI glasses with displays scale up as expected over 2026 and 2027.
 - The WiseEye line of ultra-low-power AI sensing chips is getting designed into AI PCs, smart locks, and other AIoT devices, giving Himax a small but growing foothold in the broader edge-AI trend.
 
 BEAR_CASE:
 - The core legacy business is eroding structurally. Gross margin has fallen from around 48% in 2021 to about 31% on a trailing basis as LCD demand shifts to OLED and MicroLED, while Chinese and Taiwanese rivals like Novatek, Sitronix, Chipone, and Fitipower undercut on price.
 - Trailing revenue is still down roughly 7% year over year despite the recent quarterly beat, so it's genuinely unclear whether Q2 2026 marks a durable turnaround or just a temporary automotive-led bounce.
-- Revenue is heavily concentrated among China and Asia panel and device makers, which exposes Himax to China's demand cycles, tariff and geopolitical risk, and customer inventory swings. Management has already flagged declines in large-display and monitor ICs heading into Q3 2026 from orders that were pulled forward.
+- Revenue is heavily concentrated among China and Asia panel and device makers, which exposes Himax to China's demand cycles, tariff and geopolitical risk, and customer inventory swings. Management has already flagged a sequential decline in monitor ICs in Q3 2026 as customers pulled forward inventory purchases, after large-display driver revenue fell 21% QoQ in Q2.
 - The AR/glasses and AI-sensing businesses are promising but still small next to total revenue. The stock's valuation is increasingly pricing in optionality on these emerging segments that hasn't shown up in the actual financials yet.
 
 RECENT_CATALYSTS:
-- Q2 2026 earnings (Aug 6, 2026): revenue of $227.4M came in above guidance, up 14.2% QoQ and 5.9% YoY, with gross margin at 33.1% and diluted EPS of $0.114 versus the $0.085 expected, driven by automotive strength. Q3 2026 guidance was raised to 7-11% QoQ revenue growth with gross margin near 34%.
-- Baird raised its price target to $43 from $38 on Aug 6, 2026, keeping an Outperform rating on automotive and emerging-tech momentum.
-- Product showcases across Display Week, CES, and Embedded World in early 2026 featured a new high-contrast LCoS microdisplay for AR glasses, with AUO and Vuzix reference designs, plus new WiseEye AIoT solutions, reinforcing the AI-glasses and edge-AI story.
+- Q2 2026 earnings (Aug 6, 2026): revenue of $227.4M came in above guidance, up 14.2% QoQ and 5.9% YoY, with gross margin at 33.1% and diluted EPS of $0.114 versus the $0.085 expected, driven by automotive strength. Q3 2026 guidance calls for 7-11% QoQ revenue growth with gross margin near 34%.
+- Baird raised its price target to $43 on Aug 7, 2026, the day after earnings, keeping an Outperform rating on automotive and emerging-tech momentum.
+- Product showcases at CES in January (AUO and Vuzix AR reference designs), Embedded World, and a Display Week preview in April (a high-contrast LCoS microdisplay), plus new WiseEye AIoT solutions, reinforced the AI-glasses and edge-AI story.
+- The Q2 release also mentions a proposed divestiture, with a pre-tax gain of roughly $23-24M expected in Q4 2026.
 - Himax held its annual general meeting in Taiwan on Aug 12, 2026.
 
 KEY_METRICS:
@@ -34,9 +35,13 @@ KEY_METRICS:
 
 VALUATION_VIEW: HIMX looks expensive on trailing earnings, at roughly 67x TTM P/E, but much cheaper on forward estimates at around 16x. That gap reflects the market betting that the Q2 2026 automotive-led beat marks a real earnings inflection rather than a one-off quarter. The steep multiple compression in the legacy business is a genuine structural headwind: gross margins have nearly halved since 2021 as LCD driver-IC pricing erodes, and automotive and AI-glasses growth haven't yet fully offset it since they remain small relative to total revenue. Analyst coverage is thin, just three names, with a wide price-target spread from $17 to $43, so the "Buy, roughly 120% upside" consensus should be treated as a low-confidence signal rather than a strong one. The stock is effectively pricing in successful execution on automotive share gains plus a real AR and AI-glasses ramp. If either falters, the trailing multiple offers little cushion; if both come through, the forward multiple looks reasonable to cheap for a company with genuinely differentiated IP in LCoS and WiseEye.
 
+PRICE_TARGET: low=17.4 avg=30.2 high=43 analysts=3 asof=2026-09-18
+
 STANCE: Cautiously Bullish
 
 SOURCES:
+- https://www.globenewswire.com/news-release/2026/01/06/3213371/8267/en/Himax-and-Vuzix-to-Introduce-a-Lightweight-Prescription-Ready-Optical-Reference-Design-for-AR-Glasses-at-CES-2026.html
+- https://www.stocktitan.net/news/HIMX/himax-technologies-inc-reports-second-quarter-2026-financial-results-zeny2rhb189t.html
 - https://stockanalysis.com/stocks/himx/
 - https://stockanalysis.com/stocks/himx/statistics/
 - https://stockanalysis.com/stocks/himx/forecast/

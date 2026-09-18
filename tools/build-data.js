@@ -12,11 +12,27 @@ const priceKeyMap = { PLTR: 'PLTR', GILD: 'GILD', HIMX: 'HIMX', CRWD: 'CRWD', IF
 
 const allPriceSummaries = JSON.parse(fs.readFileSync(path.join(priceDir, 'price-summary.json'), 'utf8'));
 
+// Dates shown on the site. Bump these when you re-research fundamentals or add updates.
+const FUNDAMENTALS_AS_OF = '2026-08-31';
+const UPDATES_AS_OF = '2026-09-18';
+
+// "low=80 avg=196.84 high=255 analysts=32 asof=2026-09-16" -> object (or null)
+function parsePriceTarget(str) {
+  if (!str) return null;
+  const out = {};
+  str.split(/\s+/).forEach(tok => {
+    const m = tok.match(/^(\w+)=(.+)$/);
+    if (!m) return;
+    out[m[1]] = m[1] === 'asof' ? m[2] : Number(m[2]);
+  });
+  return out.avg ? out : null;
+}
+
 function parseBlock(text) {
   const lines = text.split(/\r?\n/);
   const data = {};
   let currentKey = null;
-  const listFields = ['BULL_CASE', 'BEAR_CASE', 'RECENT_CATALYSTS', 'KEY_METRICS', 'SOURCES'];
+  const listFields = ['BULL_CASE', 'BEAR_CASE', 'RECENT_CATALYSTS', 'KEY_METRICS', 'UPDATES', 'SOURCES'];
   listFields.forEach(k => { data[k] = []; });
 
   const singleLineRe = /^([A-Z_]+):\s?(.*)$/;
@@ -80,6 +96,9 @@ files.forEach(f => {
     metrics: metricsToObj(parsed.KEY_METRICS),
     valuationView: (parsed.VALUATION_VIEW || '').trim(),
     stance: (parsed.STANCE || '').trim(),
+    priceTarget: parsePriceTarget(parsed.PRICE_TARGET),
+    myTake: (parsed.MY_TAKE || '').trim(),
+    updates: parsed.UPDATES,
     sources: parsed.SOURCES,
     priceKey: priceKey
   };
@@ -91,6 +110,7 @@ files.forEach(f => {
 const order = ['PLTR', 'GILD', 'HIMX', 'CRWD', 'IFX', 'MU', 'RTX'];
 allStocks.sort((a, b) => order.indexOf(a.id) - order.indexOf(b.id));
 
-const jsOut = 'window.RESEARCH_DATA = ' + JSON.stringify(allStocks, null, 2) + ';\n';
+const jsOut = 'window.RESEARCH_DATA = ' + JSON.stringify(allStocks, null, 2) + ';\n' +
+  'window.RESEARCH_META = ' + JSON.stringify({ fundamentalsAsOf: FUNDAMENTALS_AS_OF, updatesAsOf: UPDATES_AS_OF }) + ';\n';
 fs.writeFileSync(path.join(outDir, 'research-data.js'), jsOut);
 console.log('\nWrote research-data.js with', allStocks.length, 'stocks');

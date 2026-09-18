@@ -8,8 +8,8 @@ BUSINESS_OVERVIEW: RTX is one of the world's largest aerospace and defense compa
 
 BULL_CASE:
 - A record backlog of $289B, up 22% YoY as of Q2 2026, gives the company multi-year revenue visibility across commercial aftermarket and defense work.
-- Margins are structurally higher than defense peers. RTX runs around 20-21% gross margin versus roughly 10-13% at Lockheed Martin, thanks to the high-margin Pratt & Whitney aftermarket business and Collins' commercial content.
-- RTX was selected for the U.S. "Golden Dome" missile defense program, winning about $3.2B alongside partner Rocket Lab, which extends the Raytheon franchise into next-generation space-based defense spending.
+- Margins are structurally higher than defense peers. RTX runs around 20-21% gross margin versus roughly 10-12% at Lockheed Martin, thanks to the high-margin Pratt & Whitney aftermarket business and Collins' commercial content.
+- RTX (Raytheon) was one of 12 companies selected for Golden Dome space-based interceptor prototype contracts, part of roughly $3.2B the Space Force awarded across 20 contracts (RTX's own share was not disclosed), and it is partnering with Rocket Lab. That extends the Raytheon franchise into next-generation space-based defense spending.
 - Management raised full-year 2026 guidance after a strong Q2 beat, lifting sales, EPS, and free cash flow guidance together, with organic sales growth of 16% and missile and munitions demand accelerating globally on NATO rearmament and Middle East replenishment.
 
 BEAR_CASE:
@@ -19,28 +19,37 @@ BEAR_CASE:
 - The dividend yield is low, around 1.4%, and beta is modest, so the stock trades more on its growth and execution story than on income or defensive characteristics. A re-rating lower is possible if backlog-to-revenue conversion slips.
 
 RECENT_CATALYSTS:
-- Q2 2026 earnings (July 23, 2026): revenue of $24.7B, up 14.5% YoY, beat estimates, and adjusted EPS of $1.89 beat the $1.66 consensus. The backlog hit a record $289B, full-year adjusted sales guidance was raised to $95-96B and EPS guidance to $7.10-7.25, and shares jumped about 5.7% on the print.
-- The Golden Dome missile defense award in spring 2026 saw RTX selected for a roughly $3.2B space-based interceptor contract under the U.S. "Golden Dome for America" program, partnering with Rocket Lab and expanding its space and missile-defense franchise.
+- Q2 2026 earnings (July 23, 2026): revenue of $24.7B, up 14.5% YoY, beat estimates, and adjusted EPS of $1.89 beat the $1.66 consensus. The backlog hit a record $289B, full-year adjusted sales guidance was raised to $95-96B and EPS guidance to $7.10-7.25, and shares jumped about 7% on the print.
+- Golden Dome awards (revealed April 2026): the Space Force disclosed its space-based interceptor awards under the "Golden Dome for America" program, roughly $3.2B across 20 contracts to 12 companies including RTX (its share undisclosed). RTX is partnering with Rocket Lab, expanding its space and missile-defense franchise.
+- Tomahawk contract (Aug 17, 2026): Raytheon was awarded a seven-year contract for Tomahawk cruise missiles valued at $22.9 billion.
 - GTF engine remediation and Airbus production-rate friction have continued through 2026. Airbus cut its A320 production targets in February 2026 citing GTF delivery constraints, an overhang investors are tracking into the second half of the year as a swing factor for commercial aftermarket revenue.
 
 KEY_METRICS:
-- Market Cap: ~$285-302B (as of Aug 31, 2026)
+- Market Cap: ~$280B (as of Aug 31, 2026)
 - P/E (TTM): ~37.3x
 - Forward P/E: ~28.7x
 - Revenue (TTM): ~$93.5B (+11.8% YoY)
 - Revenue Growth (YoY): ~11.8% TTM (16% organic in Q2 2026 alone)
 - Gross Margin: ~20-21%
-- Analyst Consensus: Buy to Strong Buy, average price target ~$234.82, about 10-11% above the recent $211-212 share price
+- Analyst Consensus: Buy (23 analysts), average price target ~$235 (range $200-$265)
+PRICE_TARGET: low=200 avg=234.82 high=265 analysts=23 asof=2026-09-16
 
 VALUATION_VIEW: At roughly 37x trailing and 29x forward earnings, RTX trades at a clear premium to defense peers like Lockheed Martin, which reflects its structurally higher margins, record backlog, and dual exposure to both the commercial aerospace recovery and a global defense-spending upcycle. That premium looks earned so far. Q2 2026 beat on both revenue and EPS with raised guidance, but it also leaves the stock priced for continued flawless delivery, meaning any renewed flare-up in GTF remediation costs, a slowdown in backlog conversion, or disappointing defense budgets could compress the multiple quickly. Against its own growth rate, and against peers with thinner margins but cheaper multiples, RTX sits closer to fully valued than cheap, with further upside depending more on continued execution than on the multiple expanding further.
 
 STANCE: Cautiously Bullish
 
+UPDATES:
+- The stock has slipped about 8% from its $207.73 close on Aug 31 to roughly $192 by Sep 18, which leaves the average analyst target sitting about 22% above the price and trims the trailing P/E to around 34x.
+- On Sep 15 RTX said Pratt & Whitney president Shane Eddy will step down on Jan 1, 2027, with Jill Albertelli, who runs Pratt's Military Engines business, taking over. Leadership change at the unit carrying the GTF remediation is worth watching.
+
 SOURCES:
+- https://stockanalysis.com/stocks/rtx/history/
+- https://www.tipranks.com/news/company-announcements/rtx-announces-new-leadership-at-pratt-whitney
+- https://www.rtx.com/news/news-center/2026/08/17/rtxs-raytheon-awarded-seven-year-contract-for-tomahawk-cruise-missiles
+- https://www.airandspaceforces.com/space-force-reveals-space-based-interceptor-awards-golden-dome/
 - https://www.rtx.com/news/news-center/2026/07/23/rtx-reports-q2-2026-results
 - https://stockanalysis.com/stocks/rtx/
 - https://finance.yahoo.com/markets/stocks/articles/rtx-q2-beat-raised-outlook-220854563.html
 - https://www.barchart.com/story/news/3526259/what-are-wall-street-analysts-target-price-for-rtx-corporation-stock
 - https://www.tikr.com/blog/lockheed-martin-vs-rtx-corporation-which-defense-stock-is-the-smarter-investment
 - https://finance.yahoo.com/markets/stocks/articles/rtx-golden-dome-role-puts-160409022.html
-- https://www.streetinsider.com/General+News/RTX+expects+$3+billion+hit+in+Q3+from+Pratt+&Whitney+GTF+engine+issues/22145899.html

@@ -3,20 +3,28 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Equity Research</title>
+<title>Equity Research | Bhargav Joshi</title>
+<meta name="description" content="Equity research writeup with price chart, key metrics, bull and bear case, and valuation view.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Equity Research Portfolio">
+<meta property="og:title" content="Equity Research Portfolio | Bhargav Joshi">
+<meta property="og:description" content="Independent equity research on Palantir, Gilead, Himax, CrowdStrike, Infineon, Micron, and RTX, with interactive price charts.">
+<meta property="og:image" content="https://bhargavjoshiportfolio.github.io/equityresearch/assets/img/og.png">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.css">
-<link rel="icon" href="data:,">
+<link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 </head>
 <body>
 
 <nav class="topnav">
   <div class="wrap">
-    <a href="index.html" class="brand"><span class="mark">ER</span> Equity Research Portfolio</a>
+    <a href="index.html" class="brand"><span class="mark">ER</span><span class="brand-text">Equity Research Portfolio</span></a>
     <div class="navlinks">
       <a href="index.html#coverage">Coverage</a>
+      <a href="compare.html">Compare</a>
       <a href="index.html#methodology">Methodology</a>
     </div>
   </div>
@@ -24,7 +32,7 @@
 
 <header class="stock-header">
   <div class="wrap">
-    <a href="index.html" class="back-link">← Back to all coverage</a>
+    <a href="index.html" class="back-link">&larr; Back to all coverage</a>
     <div class="stock-header-top">
       <div>
         <div class="stock-title-row">
@@ -43,6 +51,7 @@
       </div>
     </div>
     <p class="tagline-full" id="sh-tagline"></p>
+    <p class="asof" id="sh-asof"></p>
   </div>
 </header>
 
@@ -50,15 +59,14 @@
   <div class="wrap">
     <div class="chart-panel" id="chart-panel">
       <div class="chart-panel-head">
-        <div class="range-toggle">
-          <button data-months="6">6M</button>
-          <button data-months="12" class="active">1Y</button>
-          <button data-months="36">3Y</button>
+        <div class="range-toggle" role="group" aria-label="Chart range">
+          <button type="button" data-months="6" aria-pressed="false">6M</button>
+          <button type="button" data-months="12" class="active" aria-pressed="true">1Y</button>
+          <button type="button" data-months="36" aria-pressed="false">3Y</button>
         </div>
-        <span class="chart-return"></span>
+        <span class="chart-return" id="chart-return"></span>
       </div>
-      <div class="chart-svg-wrap"></div>
-      <div class="chart-axis-labels"></div>
+      <div id="chart"></div>
     </div>
   </div>
 </section>
@@ -70,10 +78,27 @@
   </div>
 </section>
 
+<section class="section" style="padding-top:0;" id="targets-section">
+  <div class="wrap">
+    <div class="panel-head">
+      <p class="subhead">Analyst Price Targets</p>
+      <p class="asof" id="targets-asof"></p>
+    </div>
+    <div class="pt-panel" id="targets-panel"></div>
+  </div>
+</section>
+
 <section class="section" style="padding-top:0;">
   <div class="wrap">
     <p class="subhead">Business Overview</p>
     <div class="prose-panel"><p id="business-overview"></p></div>
+  </div>
+</section>
+
+<section class="section" style="padding-top:0;" id="take-section" hidden>
+  <div class="wrap">
+    <p class="subhead">My Take</p>
+    <div class="prose-panel take"><p id="my-take"></p></div>
   </div>
 </section>
 
@@ -102,6 +127,16 @@
   </div>
 </section>
 
+<section class="section" style="padding-top:0;" id="updates-section" hidden>
+  <div class="wrap">
+    <div class="panel-head">
+      <p class="subhead">Since This Writeup</p>
+      <p class="asof" id="updates-asof"></p>
+    </div>
+    <div class="prose-panel"><div id="updates-list"></div></div>
+  </div>
+</section>
+
 <section class="section" style="padding-top:0;">
   <div class="wrap">
     <p class="subhead">Valuation View</p>
@@ -119,8 +154,8 @@
 <section class="section mt-40" style="padding-top:0;">
   <div class="wrap">
     <div style="display:flex; justify-content:space-between; border-top:1px solid var(--border-soft); padding-top:24px;">
-      <a href="#" id="prev-link" class="back-link">← <span class="pnav-ticker"></span></a>
-      <a href="#" id="next-link" class="back-link"><span class="pnav-ticker"></span> →</a>
+      <a href="#" id="prev-link" class="back-link">&larr; <span class="pnav-ticker"></span></a>
+      <a href="#" id="next-link" class="back-link"><span class="pnav-ticker"></span> &rarr;</a>
     </div>
   </div>
 </section>
@@ -131,8 +166,8 @@
       <strong>Disclaimer:</strong> This writeup is independent research put together for portfolio and educational purposes only. None of it is investment advice, a recommendation, or an offer to buy or sell any security. Figures are approximate, sourced from public data as of the dates noted above, and may no longer reflect current market conditions. Do your own research and talk to a licensed financial advisor before making investment decisions.
     </p>
     <div class="footer-bottom">
-      <span>© 2026 Bhargav Joshi</span>
-      <span>Built with vanilla HTML/CSS/JS · hosted on GitHub Pages</span>
+      <span>&copy; 2026 Bhargav Joshi</span>
+      <span>Built with vanilla HTML/CSS/JS &middot; hosted on GitHub Pages</span>
     </div>
   </div>
 </footer>
@@ -140,6 +175,7 @@
 <script src="assets/data/research-data.js"></script>
 <script src="assets/data/price-data.js"></script>
 <script src="assets/data/price-summary.js"></script>
+<script src="assets/data/price-meta.js"></script>
 <script src="assets/js/chart.js"></script>
 <script src="assets/js/main.js"></script>
 <script>SiteRender.renderStockPage();</script>
