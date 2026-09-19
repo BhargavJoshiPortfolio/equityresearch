@@ -1,1 +1,1 @@
-window.PRICE_META = {"updatedAt":"2026-09-18T23:24:09.172Z","lastDate":"2026-09-18"};
+window.PRICE_META = {"updatedAt":"2026-09-19T23:16:14.761Z","lastDate":"2026-09-18"};
