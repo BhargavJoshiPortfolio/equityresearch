@@ -49,17 +49,17 @@
     "currentPrice": 56.71,
     "fiftyTwoWeekHigh": 88.83,
     "fiftyTwoWeekLow": 31.27,
-    "threeYearReturnPct": 81.1,
-    "oneYearReturnPct": 67.9,
-    "dataPoints": 762,
-    "lastDate": "2026-09-24"
+    "threeYearReturnPct": 82.5,
+    "oneYearReturnPct": 70.2,
+    "dataPoints": 763,
+    "lastDate": "2026-09-25"
   },
   "MU": {
     "symbol": "MU",
     "currency": "USD",
     "currentPrice": 1082.28,
     "fiftyTwoWeekHigh": 1255,
-    "fiftyTwoWeekLow": 155.18,
+    "fiftyTwoWeekLow": 159.97,
     "threeYearReturnPct": 1493,
     "oneYearReturnPct": 590.1,
     "dataPoints": 753,
