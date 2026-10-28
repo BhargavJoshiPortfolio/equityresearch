@@ -2,78 +2,78 @@
   "PLTR": {
     "symbol": "PLTR",
     "currency": "USD",
-    "currentPrice": 198.84,
+    "currentPrice": 198.73,
     "fiftyTwoWeekHigh": 212.94,
     "fiftyTwoWeekLow": 106.37,
-    "threeYearReturnPct": 1205.6,
-    "oneYearReturnPct": 9,
+    "threeYearReturnPct": 1253.6,
+    "oneYearReturnPct": 5.1,
     "dataPoints": 750,
-    "lastDate": "2026-10-23"
+    "lastDate": "2026-10-26"
   },
   "GILD": {
     "symbol": "GILD",
     "currency": "USD",
-    "currentPrice": 158.69,
+    "currentPrice": 159.08,
     "fiftyTwoWeekHigh": 160.51,
     "fiftyTwoWeekLow": 114.02,
-    "threeYearReturnPct": 103.7,
-    "oneYearReturnPct": 29.2,
+    "threeYearReturnPct": 104.1,
+    "oneYearReturnPct": 31.7,
     "dataPoints": 750,
-    "lastDate": "2026-10-23"
+    "lastDate": "2026-10-26"
   },
   "HIMX": {
     "symbol": "HIMX",
     "currency": "USD",
-    "currentPrice": 11.5,
+    "currentPrice": 11.94,
     "fiftyTwoWeekHigh": 25.09,
     "fiftyTwoWeekLow": 6.85,
-    "threeYearReturnPct": 113.6,
-    "oneYearReturnPct": 26.3,
+    "threeYearReturnPct": 117.4,
+    "oneYearReturnPct": 20.3,
     "dataPoints": 750,
-    "lastDate": "2026-10-23"
+    "lastDate": "2026-10-26"
   },
   "CRWD": {
     "symbol": "CRWD",
     "currency": "USD",
-    "currentPrice": 261.83,
+    "currentPrice": 268.02,
     "fiftyTwoWeekHigh": 286.99,
     "fiftyTwoWeekLow": 85.68,
-    "threeYearReturnPct": 496.1,
-    "oneYearReturnPct": 97.4,
+    "threeYearReturnPct": 499.8,
+    "oneYearReturnPct": 97.7,
     "dataPoints": 750,
-    "lastDate": "2026-10-23"
+    "lastDate": "2026-10-26"
   },
   "IFX": {
     "symbol": "IFX",
     "currency": "EUR",
-    "currentPrice": 50.2,
+    "currentPrice": 52.59,
     "fiftyTwoWeekHigh": 88.83,
     "fiftyTwoWeekLow": 31.27,
-    "threeYearReturnPct": 65.7,
-    "oneYearReturnPct": 45.6,
+    "threeYearReturnPct": 72.3,
+    "oneYearReturnPct": 46.4,
     "dataPoints": 760,
-    "lastDate": "2026-10-23"
+    "lastDate": "2026-10-26"
   },
   "MU": {
     "symbol": "MU",
     "currency": "USD",
-    "currentPrice": 903.7,
+    "currentPrice": 928.76,
     "fiftyTwoWeekHigh": 1255,
     "fiftyTwoWeekLow": 192.59,
-    "threeYearReturnPct": 1236.7,
-    "oneYearReturnPct": 324.5,
+    "threeYearReturnPct": 1267.8,
+    "oneYearReturnPct": 310.6,
     "dataPoints": 750,
-    "lastDate": "2026-10-23"
+    "lastDate": "2026-10-26"
   },
   "RTX": {
     "symbol": "RTX",
     "currency": "USD",
-    "currentPrice": 197.48,
+    "currentPrice": 194.6,
     "fiftyTwoWeekHigh": 226.88,
     "fiftyTwoWeekLow": 166.74,
-    "threeYearReturnPct": 141.3,
-    "oneYearReturnPct": 6.4,
+    "threeYearReturnPct": 151.3,
+    "oneYearReturnPct": 10.2,
     "dataPoints": 750,
-    "lastDate": "2026-10-23"
+    "lastDate": "2026-10-26"
   }
 }
