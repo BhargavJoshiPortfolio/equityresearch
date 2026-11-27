@@ -46,13 +46,13 @@
   "IFX": {
     "symbol": "IFX",
     "currency": "EUR",
-    "currentPrice": 40.895,
+    "currentPrice": 42.355,
     "fiftyTwoWeekHigh": 88.83,
-    "fiftyTwoWeekLow": 33.22,
-    "threeYearReturnPct": 30.2,
-    "oneYearReturnPct": 33.1,
-    "dataPoints": 760,
-    "lastDate": "2026-11-24"
+    "fiftyTwoWeekLow": 34.775,
+    "threeYearReturnPct": 21.7,
+    "oneYearReturnPct": 21.9,
+    "dataPoints": 761,
+    "lastDate": "2026-11-25"
   },
   "MU": {
     "symbol": "MU",
